@@ -1,0 +1,47 @@
+baseURL: "https://tnsaa2026.github.io/"
+defaultContentLanguage: en
+languages:
+  en:
+    label: English
+    locale: en-US
+    weight: 1
+title: "TNSAA 2026"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+
+params:
+  description: "Tensor Network States: Algorithms and Applications (TNSAA) 2026"
+  defaultTheme: light
+  disableThemeToggle: true
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+
+    - identifier: cfp
+      name: Call for Papers
+      url: /call-for-papers/
+      weight: 20
+
+    - identifier: program
+      name: Program
+      url: /program/
+      weight: 30
+
+    - identifier: venue
+      name: Venue
+      url: /venue/
+      weight: 40
+
+    - identifier: organizers
+      name: Organizers
+      url: /organizers/
+      weight: 50
