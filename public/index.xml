@@ -6,15 +6,8 @@
     <description>Recent content on TNSAA 2026</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 May 2026 15:40:11 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 15:40:10 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Program</title>
-      <link>http://localhost:1313/program/</link>
-      <pubDate>Tue, 19 May 2026 15:40:11 +0900</pubDate>
-      <guid>http://localhost:1313/program/</guid>
-      <description></description>
-    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
@@ -44,20 +37,112 @@
 &lt;p&gt;Contributed presentations may be accepted as:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;For inquiries regarding TNSAA 2026, please contact:&lt;/p&gt;
+&lt;h2 id=&#34;tnsaa-2026-organizing-committee&#34;&gt;TNSAA 2026 Organizing Committee&lt;/h2&gt;
+&lt;p&gt;Email:&lt;br&gt;
+&lt;a href=&#34;mailto:ueda.hiroshi.qiqb@osaka-u.ac.jp&#34;&gt;ueda.hiroshi.qiqb@osaka-u.ac.jp&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;venue&#34;&gt;Venue&lt;/h2&gt;
+&lt;p&gt;RIKEN Center for Computational Science (R-CCS)&lt;br&gt;
+Kobe, Japan&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Organizers</title>
       <link>http://localhost:1313/organizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/organizers/</guid>
       <description>&lt;h2 id=&#34;general-chairs&#34;&gt;General Chairs&lt;/h2&gt;
-&lt;p&gt;To be announced&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;program-committee&#34;&gt;Program Committee&lt;/h2&gt;
-&lt;p&gt;To be announced&lt;/p&gt;
+&lt;p&gt;To be announced.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;local-organizers&#34;&gt;Local Organizers&lt;/h2&gt;
-&lt;p&gt;TNSAA 2026 Organizing Committee&lt;/p&gt;
-&lt;p&gt;RIKEN Center for Computational Science (R-CCS)&lt;br&gt;
-Center for Quantum Information and Quantum Biology (QIQB), The University of Osaka&lt;/p&gt;</description>
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Program</title>
+      <link>http://localhost:1313/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/program/</guid>
+      <description>&lt;p&gt;The detailed program will be announced closer to the workshop dates.&lt;/p&gt;
+&lt;h2 id=&#34;tentative-schedule&#34;&gt;Tentative Schedule&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Date&lt;/th&gt;
+          &lt;th&gt;Program&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;December 15 (Tue)&lt;/td&gt;
+          &lt;td&gt;Registration / Opening / Invited Talks&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;December 16 (Wed)&lt;/td&gt;
+          &lt;td&gt;Scientific Sessions&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;December 17 (Thu)&lt;/td&gt;
+          &lt;td&gt;Scientific Sessions / Poster Session&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;December 18 (Fri)&lt;/td&gt;
+          &lt;td&gt;Scientific Sessions / Closing&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
+&lt;p&gt;Information on invited talks will be announced later.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;contributed-presentations&#34;&gt;Contributed Presentations&lt;/h2&gt;
+&lt;p&gt;TNSAA 2026 will include contributed oral and poster presentations.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;social-events&#34;&gt;Social Events&lt;/h2&gt;
+&lt;p&gt;Information on banquet and social events will be announced later.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Registration</title>
+      <link>http://localhost:1313/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/registration/</guid>
+      <description>&lt;p&gt;Registration information for TNSAA 2026 will be announced later.&lt;/p&gt;
+&lt;h2 id=&#34;registration-fees&#34;&gt;Registration Fees&lt;/h2&gt;
+&lt;p&gt;To be announced.&lt;/p&gt;
+&lt;h2 id=&#34;important-notes&#34;&gt;Important Notes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Registration will be required for all participants.&lt;/li&gt;
+&lt;li&gt;Details on payment, deadlines, and cancellation policy will be provided later.&lt;/li&gt;
+&lt;li&gt;Participants requiring visa-related documents should contact the organizers after registration opens.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;workshop-dates&#34;&gt;Workshop Dates&lt;/h2&gt;
+&lt;p&gt;TNSAA 2026 will be held from &lt;strong&gt;December 15–18, 2026&lt;/strong&gt; at the &lt;strong&gt;RIKEN Center for Computational Science (R-CCS), Kobe, Japan&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Speakers</title>
+      <link>http://localhost:1313/speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/</guid>
+      <description>&lt;h1 id=&#34;speakers&#34;&gt;Speakers&lt;/h1&gt;
+&lt;p&gt;Invited speakers will be announced soon.&lt;/p&gt;
+&lt;h2 id=&#34;invited-speakers&#34;&gt;Invited Speakers&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;contributed-presentations&#34;&gt;Contributed Presentations&lt;/h2&gt;
+&lt;p&gt;TNSAA 2026 will welcome contributed oral and poster presentations.&lt;/p&gt;
+&lt;p&gt;Submission details will be announced later.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Venue</title>

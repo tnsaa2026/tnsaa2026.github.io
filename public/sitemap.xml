@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/organizers/</loc>
-    <lastmod>2026-05-19T15:40:32+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-19T15:40:32+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/call-for-papers/</loc>
-    <lastmod>2026-05-19T15:40:11+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/program/</loc>
-    <lastmod>2026-05-19T15:40:11+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-05-19T15:40:10+09:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-19T15:40:10+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/call-for-papers/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/organizers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/program/</loc>
+  </url><url>
+    <loc>http://localhost:1313/registration/</loc>
+  </url><url>
+    <loc>http://localhost:1313/speakers/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>

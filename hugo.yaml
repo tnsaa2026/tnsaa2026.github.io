@@ -31,6 +31,11 @@ menu:
       url: /call-for-papers/
       weight: 20
 
+    - identifier: speakers
+      name: Speakers
+      url: /speakers/
+      weight: 25
+
     - identifier: program
       name: Program
       url: /program/
@@ -41,7 +46,17 @@ menu:
       url: /venue/
       weight: 40
 
+    - identifier: registration
+      name: Registration
+      url: /registration/
+      weight: 45
+
     - identifier: organizers
       name: Organizers
       url: /organizers/
       weight: 50
+
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 60
