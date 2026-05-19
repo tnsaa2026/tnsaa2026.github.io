@@ -6,22 +6,8 @@
     <description>Recent content on TNSAA 2026</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 May 2026 15:40:32 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 15:40:11 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Organizers</title>
-      <link>http://localhost:1313/organizers/</link>
-      <pubDate>Tue, 19 May 2026 15:40:32 +0900</pubDate>
-      <guid>http://localhost:1313/organizers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Call for Papers</title>
-      <link>http://localhost:1313/call-for-papers/</link>
-      <pubDate>Tue, 19 May 2026 15:40:11 +0900</pubDate>
-      <guid>http://localhost:1313/call-for-papers/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Program</title>
       <link>http://localhost:1313/program/</link>
@@ -35,6 +21,43 @@
       <pubDate>Tue, 19 May 2026 15:40:10 +0900</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Call for Papers</title>
+      <link>http://localhost:1313/call-for-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/call-for-papers/</guid>
+      <description>&lt;p&gt;TNSAA 2026 is an international workshop on tensor network states, algorithms, and applications.&lt;/p&gt;
+&lt;p&gt;In addition to invited talks, the workshop welcomes contributed presentations from researchers and students working in related areas.&lt;/p&gt;
+&lt;h2 id=&#34;topics&#34;&gt;Topics&lt;/h2&gt;
+&lt;p&gt;Topics include, but are not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tensor network algorithms&lt;/li&gt;
+&lt;li&gt;Quantum many-body systems&lt;/li&gt;
+&lt;li&gt;Quantum information and computation&lt;/li&gt;
+&lt;li&gt;Numerical methods for strongly correlated systems&lt;/li&gt;
+&lt;li&gt;Machine learning and tensor networks&lt;/li&gt;
+&lt;li&gt;Quantum simulation&lt;/li&gt;
+&lt;li&gt;Applications of tensor networks in physics, chemistry, and related fields&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;presentation-formats&#34;&gt;Presentation Formats&lt;/h2&gt;
+&lt;p&gt;Contributed presentations may be accepted as:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Organizers</title>
+      <link>http://localhost:1313/organizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/organizers/</guid>
+      <description>&lt;h2 id=&#34;general-chairs&#34;&gt;General Chairs&lt;/h2&gt;
+&lt;p&gt;To be announced&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;program-committee&#34;&gt;Program Committee&lt;/h2&gt;
+&lt;p&gt;To be announced&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;local-organizers&#34;&gt;Local Organizers&lt;/h2&gt;
+&lt;p&gt;TNSAA 2026 Organizing Committee&lt;/p&gt;
+&lt;p&gt;RIKEN Center for Computational Science (R-CCS)&lt;br&gt;
+Center for Quantum Information and Quantum Biology (QIQB), The University of Osaka&lt;/p&gt;</description>
     </item>
     <item>
       <title>Venue</title>
