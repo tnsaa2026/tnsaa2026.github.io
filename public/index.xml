@@ -6,14 +6,15 @@
     <description>Recent content on TNSAA 2026</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 May 2026 15:40:10 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Tue, 19 May 2026 15:40:10 +0900</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The Density Matrix Renormalization Group (DMRG) and its generalizations in the form of Tensor Network States have made significant contributions across a wide range of fields, including condensed matter physics, statistical physics, quantum chemistry, nuclear physics, quantum information, and machine learning.&lt;/p&gt;
+&lt;p&gt;The Tensor Network States: Algorithms and Applications (TNSAA) workshops were established to highlight these developments, providing a platform for presenting new algorithmic advances and their applications in uncovering novel physics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Call for Papers</title>
@@ -49,6 +50,18 @@
 &lt;h2 id=&#34;venue&#34;&gt;Venue&lt;/h2&gt;
 &lt;p&gt;RIKEN Center for Computational Science (R-CCS)&lt;br&gt;
 Kobe, Japan&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/</guid>
+      <description>&lt;h2 id=&#34;website-launched&#34;&gt;Website launched&lt;/h2&gt;
+&lt;p&gt;The official website of TNSAA 2026 is now online.&lt;/p&gt;
+&lt;h2 id=&#34;venue-confirmed&#34;&gt;Venue confirmed&lt;/h2&gt;
+&lt;p&gt;TNSAA 2026 will be held at the RIKEN Center for Computational Science (R-CCS), Kobe, Japan.&lt;/p&gt;
+&lt;h2 id=&#34;more-information-coming-soon&#34;&gt;More information coming soon&lt;/h2&gt;
+&lt;p&gt;Information on invited speakers, registration, and submission will be announced later.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Organizers</title>

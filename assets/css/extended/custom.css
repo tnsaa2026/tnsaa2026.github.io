@@ -425,3 +425,13 @@ body {
     padding: 10px 12px;
   }
 }
+
+.text-link {
+  font-weight: 700;
+  color: #25638f;
+  text-decoration: none;
+}
+
+.text-link:hover {
+  text-decoration: underline;
+}
