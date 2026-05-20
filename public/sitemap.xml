@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://tnsaa2026.github.io/about/</loc></url><url><loc>https://tnsaa2026.github.io/call-for-papers/</loc></url><url><loc>https://tnsaa2026.github.io/categories/</loc></url><url><loc>https://tnsaa2026.github.io/contact/</loc></url><url><loc>https://tnsaa2026.github.io/news/</loc></url><url><loc>https://tnsaa2026.github.io/organizers/</loc></url><url><loc>https://tnsaa2026.github.io/program/</loc></url><url><loc>https://tnsaa2026.github.io/registration/</loc></url><url><loc>https://tnsaa2026.github.io/speakers/</loc></url><url><loc>https://tnsaa2026.github.io/tags/</loc></url><url><loc>https://tnsaa2026.github.io/</loc></url><url><loc>https://tnsaa2026.github.io/venue/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/call-for-papers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/news/</loc>
+  </url><url>
+    <loc>http://localhost:1313/organizers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/program/</loc>
+  </url><url>
+    <loc>http://localhost:1313/registration/</loc>
+  </url><url>
+    <loc>http://localhost:1313/speakers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/venue/</loc>
+  </url>
+</urlset>
