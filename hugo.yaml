@@ -32,36 +32,36 @@ menu:
       weight: 10
 
     - identifier: cfp
-      name: Call for Papers
+      name: Call for Contributions
       url: /call-for-papers/
       weight: 20
 
     - identifier: speakers
       name: Speakers
       url: /speakers/
-      weight: 25
+      weight: 30
 
     - identifier: program
       name: Program
       url: /program/
-      weight: 30
+      weight: 40
 
     - identifier: venue
       name: Venue
       url: /venue/
-      weight: 40
+      weight: 50
 
     - identifier: registration
       name: Registration
       url: /registration/
-      weight: 45
+      weight: 60
 
     - identifier: organizers
       name: Organizers
       url: /organizers/
-      weight: 50
+      weight: 70
 
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 60
+      weight: 80

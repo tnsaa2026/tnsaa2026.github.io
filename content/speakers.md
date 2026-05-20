@@ -3,8 +3,6 @@ title: "Speakers"
 draft: false
 ---
 
-# Speakers
-
 Invited speakers will be announced soon.
 
 ## Invited Speakers
