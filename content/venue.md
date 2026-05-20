@@ -3,7 +3,7 @@ title: "Venue"
 draft: false
 ---
 
-![Kobe venue](/images/kobe-venue.png)
+![Kobe venue](/images/kobe-venue.webp)
 
 TNSAA 2026 will be held at:
 
