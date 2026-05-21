@@ -505,3 +505,41 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+/* =========================
+   Sponsors / Support
+========================= */
+
+.sponsors-section {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+}
+
+.sponsor-block {
+  padding: 24px 28px;
+  border-radius: 22px;
+  background: #ffffff;
+  border: 1px solid #e7ebf0;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.05);
+}
+
+.sponsor-block h3 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-size: 1.35rem;
+}
+
+.sponsor-item {
+  margin: 0 0 16px;
+  line-height: 1.7;
+  color: #374151;
+}
+
+.sponsor-item:last-child {
+  margin-bottom: 0;
+}
+
+.sponsor-item span {
+  color: #6b7280;
+}
