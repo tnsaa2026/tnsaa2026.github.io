@@ -1,29 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>TNSAA 2026</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on TNSAA 2026</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>TNSAA 2026</title><link>https://tnsaa2026.github.io/</link><description>Recent content on TNSAA 2026</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://tnsaa2026.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://tnsaa2026.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/about/</guid><description>&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The Density Matrix Renormalization Group (DMRG) and its generalizations in the form of Tensor Network States have made significant contributions across a wide range of fields, including condensed matter physics, statistical physics, quantum chemistry, nuclear physics, quantum information, and machine learning.&lt;/p&gt;
-&lt;p&gt;The Tensor Network States: Algorithms and Applications (TNSAA) workshops were established to highlight these developments, providing a platform for presenting new algorithmic advances and their applications in uncovering novel physics.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Call for Papers</title>
-      <link>http://localhost:1313/call-for-papers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/call-for-papers/</guid>
-      <description>&lt;p&gt;TNSAA 2026 is an international workshop on tensor network states, algorithms, and applications.&lt;/p&gt;
+&lt;p&gt;The Tensor Network States: Algorithms and Applications (TNSAA) workshops were established to highlight these developments, providing a platform for presenting new algorithmic advances and their applications in uncovering novel physics.&lt;/p&gt;</description></item><item><title>Call for Papers</title><link>https://tnsaa2026.github.io/call-for-papers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/call-for-papers/</guid><description>&lt;p&gt;TNSAA 2026 is an international workshop on tensor network states, algorithms, and applications.&lt;/p&gt;
 &lt;p&gt;In addition to invited talks, the workshop welcomes contributed presentations from researchers and students working in related areas.&lt;/p&gt;
-&lt;h2 id=&#34;topics&#34;&gt;Topics&lt;/h2&gt;
+&lt;h2 id="topics"&gt;Topics&lt;/h2&gt;
 &lt;p&gt;Topics include, but are not limited to:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tensor network algorithms&lt;/li&gt;
@@ -34,193 +13,141 @@
 &lt;li&gt;Quantum simulation&lt;/li&gt;
 &lt;li&gt;Applications of tensor networks in physics, chemistry, and related fields&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;presentation-formats&#34;&gt;Presentation Formats&lt;/h2&gt;
-&lt;p&gt;Contributed presentations may be accepted as:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;For inquiries regarding TNSAA 2026, please contact:&lt;/p&gt;
-&lt;h2 id=&#34;tnsaa-2026-organizing-committee&#34;&gt;TNSAA 2026 Organizing Committee&lt;/h2&gt;
+&lt;h2 id="presentation-formats"&gt;Presentation Formats&lt;/h2&gt;
+&lt;p&gt;Contributed presentations may be accepted as:&lt;/p&gt;</description></item><item><title>Contact</title><link>https://tnsaa2026.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/contact/</guid><description>&lt;p&gt;For inquiries regarding TNSAA 2026, please contact:&lt;/p&gt;
+&lt;h2 id="tnsaa-2026-organizing-committee"&gt;TNSAA 2026 Organizing Committee&lt;/h2&gt;
 &lt;p&gt;Email:&lt;br&gt;
-&lt;a href=&#34;mailto:ueda.hiroshi.qiqb@osaka-u.ac.jp&#34;&gt;ueda.hiroshi.qiqb@osaka-u.ac.jp&lt;/a&gt;&lt;/p&gt;
+&lt;a href="mailto:ueda.hiroshi.qiqb@osaka-u.ac.jp"&gt;ueda.hiroshi.qiqb@osaka-u.ac.jp&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;venue&#34;&gt;Venue&lt;/h2&gt;
+&lt;h2 id="venue"&gt;Venue&lt;/h2&gt;
 &lt;p&gt;RIKEN Center for Computational Science (R-CCS)&lt;br&gt;
-Kobe, Japan&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>News</title>
-      <link>http://localhost:1313/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/</guid>
-      <description>&lt;h2 id=&#34;website-launched&#34;&gt;Website launched&lt;/h2&gt;
+Kobe, Japan&lt;/p&gt;</description></item><item><title>News</title><link>https://tnsaa2026.github.io/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/news/</guid><description>&lt;h2 id="website-launched"&gt;Website launched&lt;/h2&gt;
 &lt;p&gt;The official website of TNSAA 2026 is now online.&lt;/p&gt;
-&lt;h2 id=&#34;venue-confirmed&#34;&gt;Venue confirmed&lt;/h2&gt;
+&lt;h2 id="venue-confirmed"&gt;Venue confirmed&lt;/h2&gt;
 &lt;p&gt;TNSAA 2026 will be held at the RIKEN Center for Computational Science (R-CCS), Kobe, Japan.&lt;/p&gt;
-&lt;h2 id=&#34;more-information-coming-soon&#34;&gt;More information coming soon&lt;/h2&gt;
-&lt;p&gt;Information on invited speakers, registration, and submission will be announced later.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Organizers</title>
-      <link>http://localhost:1313/organizers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/organizers/</guid>
-      <description>&lt;h2 id=&#34;organizing-committee&#34;&gt;Organizing Committee&lt;/h2&gt;
-&lt;div class=&#34;person-grid&#34;&gt;
-  &lt;div class=&#34;person-card&#34;&gt;
-    &lt;div class=&#34;person-avatar placeholder&#34;&gt;HU&lt;/div&gt;
-    &lt;h3&gt;Hiroshi Ueda&lt;/h3&gt;
-    &lt;p&gt;The University of Osaka&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;person-card&#34;&gt;
-    &lt;div class=&#34;person-avatar placeholder&#34;&gt;MO&lt;/div&gt;
-    &lt;h3&gt;Kouichi Okunishi&lt;/h3&gt;
-    &lt;p&gt;Osaka Metropolitan University&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;person-card&#34;&gt;
-    &lt;div class=&#34;person-avatar placeholder&#34;&gt;SY&lt;/div&gt;
-    &lt;h3&gt;Seiji Yunoki&lt;/h3&gt;
-    &lt;p&gt;RIKEN&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;person-card&#34;&gt;
-    &lt;div class=&#34;person-avatar placeholder&#34;&gt;KH&lt;/div&gt;
-    &lt;h3&gt;Naoki Kawashima&lt;/h3&gt;
-    &lt;p&gt;The University of Tokyo&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;person-card&#34;&gt;
-    &lt;div class=&#34;person-avatar placeholder&#34;&gt;TN&lt;/div&gt;
-    &lt;h3&gt;Tomotoshi Nishino&lt;/h3&gt;
-    &lt;p&gt;Kobe University&lt;/p&gt;
-  &lt;/div&gt;
+&lt;h2 id="more-information-coming-soon"&gt;More information coming soon&lt;/h2&gt;
+&lt;p&gt;Information on invited speakers, registration, and submission will be announced later.&lt;/p&gt;</description></item><item><title>Organizers</title><link>https://tnsaa2026.github.io/organizers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/organizers/</guid><description>&lt;h2 id="organizing-committee"&gt;Organizing Committee&lt;/h2&gt;
+&lt;div class="person-grid"&gt;
+&lt;div class="person-card"&gt;
+&lt;div class="person-avatar placeholder"&gt;HU&lt;/div&gt;
+&lt;h3&gt;Hiroshi Ueda&lt;/h3&gt;
+&lt;p&gt;The University of Osaka&lt;/p&gt;
 &lt;/div&gt;
-&lt;h2 id=&#34;advisory-committee&#34;&gt;Advisory Committee&lt;/h2&gt;
-&lt;div class=&#34;person-grid&#34;&gt;
-  &lt;div class=&#34;person-card&#34;&gt;
-    &lt;div class=&#34;person-avatar placeholder&#34;&gt;YK&lt;/div&gt;
-    &lt;h3&gt;Ying-Jer Kao&lt;/h3&gt;
-    &lt;p&gt;National Taiwan University (NTU)&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;person-card&#34;&gt;
-    &lt;div class=&#34;person-avatar placeholder&#34;&gt;ZG&lt;/div&gt;
-    &lt;h3&gt;Zhengcheng Gu&lt;/h3&gt;
-    &lt;p&gt;The Chinese University of Hong Kong (CUHK)&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;person-card&#34;&gt;
-    &lt;div class=&#34;person-avatar placeholder&#34;&gt;TN&lt;/div&gt;
-    &lt;h3&gt;Tomotoshi Nishino&lt;/h3&gt;
-    &lt;p&gt;Kobe University&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;person-card&#34;&gt;
-    &lt;div class=&#34;person-avatar placeholder&#34;&gt;TX&lt;/div&gt;
-    &lt;h3&gt;Tao Xiang&lt;/h3&gt;
-    &lt;p&gt;Beijing Academy of Quantum Information Sciences (BAQIS)&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Program</title>
-      <link>http://localhost:1313/program/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/program/</guid>
-      <description>&lt;p&gt;The detailed program will be announced closer to the workshop dates.&lt;/p&gt;
-&lt;h2 id=&#34;tentative-schedule&#34;&gt;Tentative Schedule&lt;/h2&gt;
+&lt;div class="person-card"&gt;
+&lt;div class="person-avatar placeholder"&gt;MO&lt;/div&gt;
+&lt;h3&gt;Kouichi Okunishi&lt;/h3&gt;
+&lt;p&gt;Osaka Metropolitan University&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="person-card"&gt;
+&lt;div class="person-avatar placeholder"&gt;SY&lt;/div&gt;
+&lt;h3&gt;Seiji Yunoki&lt;/h3&gt;
+&lt;p&gt;RIKEN&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="person-card"&gt;
+&lt;div class="person-avatar placeholder"&gt;KH&lt;/div&gt;
+&lt;h3&gt;Naoki Kawashima&lt;/h3&gt;
+&lt;p&gt;The University of Tokyo&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="person-card"&gt;
+&lt;div class="person-avatar placeholder"&gt;TN&lt;/div&gt;
+&lt;h3&gt;Tomotoshi Nishino&lt;/h3&gt;
+&lt;p&gt;Kobe University&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id="advisory-committee"&gt;Advisory Committee&lt;/h2&gt;
+&lt;div class="person-grid"&gt;
+&lt;div class="person-card"&gt;
+&lt;div class="person-avatar placeholder"&gt;YK&lt;/div&gt;
+&lt;h3&gt;Ying-Jer Kao&lt;/h3&gt;
+&lt;p&gt;National Taiwan University (NTU)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="person-card"&gt;
+&lt;div class="person-avatar placeholder"&gt;ZG&lt;/div&gt;
+&lt;h3&gt;Zhengcheng Gu&lt;/h3&gt;
+&lt;p&gt;The Chinese University of Hong Kong (CUHK)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="person-card"&gt;
+&lt;div class="person-avatar placeholder"&gt;TN&lt;/div&gt;
+&lt;h3&gt;Tomotoshi Nishino&lt;/h3&gt;
+&lt;p&gt;Kobe University&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="person-card"&gt;
+&lt;div class="person-avatar placeholder"&gt;TX&lt;/div&gt;
+&lt;h3&gt;Tao Xiang&lt;/h3&gt;
+&lt;p&gt;Beijing Academy of Quantum Information Sciences (BAQIS)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>Program</title><link>https://tnsaa2026.github.io/program/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/program/</guid><description>&lt;p&gt;The detailed program will be announced closer to the workshop dates.&lt;/p&gt;
+&lt;h2 id="tentative-schedule"&gt;Tentative Schedule&lt;/h2&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Date&lt;/th&gt;
-          &lt;th&gt;Program&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;December 15 (Tue)&lt;/td&gt;
-          &lt;td&gt;Registration / Opening / Invited Talks / Contributed Talks&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;December 16 (Wed)&lt;/td&gt;
-          &lt;td&gt;Invited Talks / Contributed Talks / Poster Session&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;December 17 (Thu)&lt;/td&gt;
-          &lt;td&gt;Invited Talks / Contributed Talks&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;December 18 (Fri)&lt;/td&gt;
-          &lt;td&gt;Invited Talks / Contributed Talks / Closing&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Program&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;December 15 (Tue)&lt;/td&gt;
+&lt;td&gt;Registration / Opening / Invited Talks / Contributed Talks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;December 16 (Wed)&lt;/td&gt;
+&lt;td&gt;Invited Talks / Contributed Talks / Poster Session&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;December 17 (Thu)&lt;/td&gt;
+&lt;td&gt;Invited Talks / Contributed Talks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;December 18 (Fri)&lt;/td&gt;
+&lt;td&gt;Invited Talks / Contributed Talks / Closing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
+&lt;h2 id="invited-talks"&gt;Invited Talks&lt;/h2&gt;
 &lt;p&gt;Invited talks will be scheduled throughout the workshop.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;contributed-presentations&#34;&gt;Contributed Presentations&lt;/h2&gt;
-&lt;p&gt;TNSAA 2026 will include contributed oral and poster presentations.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Registration</title>
-      <link>http://localhost:1313/registration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/registration/</guid>
-      <description>&lt;p&gt;Registration information for TNSAA 2026 will be announced later.&lt;/p&gt;
-&lt;h2 id=&#34;registration-fees&#34;&gt;Registration Fees&lt;/h2&gt;
+&lt;h2 id="contributed-presentations"&gt;Contributed Presentations&lt;/h2&gt;
+&lt;p&gt;TNSAA 2026 will include contributed oral and poster presentations.&lt;/p&gt;</description></item><item><title>Registration</title><link>https://tnsaa2026.github.io/registration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/registration/</guid><description>&lt;p&gt;Registration information for TNSAA 2026 will be announced later.&lt;/p&gt;
+&lt;h2 id="registration-fees"&gt;Registration Fees&lt;/h2&gt;
 &lt;p&gt;To be announced.&lt;/p&gt;
-&lt;h2 id=&#34;important-notes&#34;&gt;Important Notes&lt;/h2&gt;
+&lt;h2 id="important-notes"&gt;Important Notes&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Registration will be required for all participants.&lt;/li&gt;
 &lt;li&gt;Details on payment, deadlines, and cancellation policy will be provided later.&lt;/li&gt;
 &lt;li&gt;Participants requiring visa-related documents should contact the organizers after registration opens.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;workshop-dates&#34;&gt;Workshop Dates&lt;/h2&gt;
-&lt;p&gt;TNSAA 2026 will be held from &lt;strong&gt;December 15–18, 2026&lt;/strong&gt; at the &lt;strong&gt;RIKEN Center for Computational Science (R-CCS), Kobe, Japan&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Speakers</title>
-      <link>http://localhost:1313/speakers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/speakers/</guid>
-      <description>&lt;p&gt;Invited speakers will be announced soon.&lt;/p&gt;
-&lt;h2 id=&#34;invited-speakers&#34;&gt;Invited Speakers&lt;/h2&gt;
-&lt;div class=&#34;person-grid&#34;&gt;
-&lt;div class=&#34;person-card&#34;&gt;
-  &lt;div class=&#34;person-avatar placeholder&#34;&gt;TBA&lt;/div&gt;
-  &lt;h3&gt;To be announced&lt;/h3&gt;
-  &lt;p&gt;Invited speakers will be listed here.&lt;/p&gt;
+&lt;h2 id="workshop-dates"&gt;Workshop Dates&lt;/h2&gt;
+&lt;p&gt;TNSAA 2026 will be held from &lt;strong&gt;December 15–18, 2026&lt;/strong&gt; at the &lt;strong&gt;RIKEN Center for Computational Science (R-CCS), Kobe, Japan&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Speakers</title><link>https://tnsaa2026.github.io/speakers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/speakers/</guid><description>&lt;p&gt;Invited speakers will be announced soon.&lt;/p&gt;
+&lt;h2 id="invited-speakers"&gt;Invited Speakers&lt;/h2&gt;
+&lt;div class="person-grid"&gt;
+&lt;div class="person-card"&gt;
+&lt;div class="person-avatar placeholder"&gt;TBA&lt;/div&gt;
+&lt;h3&gt;To be announced&lt;/h3&gt;
+&lt;p&gt;Invited speakers will be listed here.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;contributed-presentations&#34;&gt;Contributed Presentations&lt;/h2&gt;
+&lt;h2 id="contributed-presentations"&gt;Contributed Presentations&lt;/h2&gt;
 &lt;p&gt;TNSAA 2026 will welcome contributed oral and poster presentations.&lt;/p&gt;
-&lt;p&gt;Submission details will be announced later.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Venue</title>
-      <link>http://localhost:1313/venue/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/venue/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Kobe venue&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/kobe-venue.webp&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Submission details will be announced later.&lt;/p&gt;</description></item><item><title>Venue</title><link>https://tnsaa2026.github.io/venue/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/venue/</guid><description>&lt;p&gt;&lt;img alt="Kobe venue" loading="lazy" src="https://tnsaa2026.github.io/images/kobe-venue.webp"&gt;&lt;/p&gt;
 &lt;p&gt;TNSAA 2026 will be held at:&lt;/p&gt;
-&lt;h2 id=&#34;riken-center-for-computational-science-r-ccs&#34;&gt;RIKEN Center for Computational Science (R-CCS)&lt;/h2&gt;
+&lt;h2 id="riken-center-for-computational-science-r-ccs"&gt;RIKEN Center for Computational Science (R-CCS)&lt;/h2&gt;
 &lt;p&gt;Kobe, Japan&lt;/p&gt;
 &lt;p&gt;The RIKEN Center for Computational Science (R-CCS) is one of the world’s leading research centers for high-performance computing and computational science. The workshop venue is located in Kobe, a major international port city in western Japan.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;access&#34;&gt;Access&lt;/h1&gt;
-&lt;h2 id=&#34;from-kansai-international-airport-kix&#34;&gt;From Kansai International Airport (KIX)&lt;/h2&gt;
+&lt;h1 id="access"&gt;Access&lt;/h1&gt;
+&lt;h2 id="from-kansai-international-airport-kix"&gt;From Kansai International Airport (KIX)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Airport Limousine Bus to Sannomiya Station&lt;/li&gt;
 &lt;li&gt;JR train connections available&lt;/li&gt;
 &lt;li&gt;Approx. 70–90 minutes&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;from-shin-kobe-station&#34;&gt;From Shin-Kobe Station&lt;/h2&gt;
+&lt;h2 id="from-shin-kobe-station"&gt;From Shin-Kobe Station&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Subway + Port Liner access&lt;/li&gt;
 &lt;li&gt;Approx. 30 minutes&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;local-transportation&#34;&gt;Local Transportation&lt;/h2&gt;
-&lt;p&gt;Detailed transportation information will be provided closer to the workshop dates.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;h2 id="local-transportation"&gt;Local Transportation&lt;/h2&gt;
+&lt;p&gt;Detailed transportation information will be provided closer to the workshop dates.&lt;/p&gt;</description></item></channel></rss>
