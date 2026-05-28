@@ -32,6 +32,12 @@ draft: false
   </div>
 
   <div class="person-card">
+    <div class="person-avatar placeholder">SG</div>
+    <h3>Shimpei Goto</h3>
+    <p>The University of Tokyo</p>
+  </div>
+
+  <div class="person-card">
     <div class="person-avatar placeholder">SY</div>
     <h3>Seiji Yunoki</h3>
     <p>RIKEN</p>
