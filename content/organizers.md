@@ -14,19 +14,19 @@ draft: false
   </div>
 
   <div class="person-card">
-    <div class="person-avatar placeholder">HU</div>
+    <div class="person-avatar placeholder">ZJ</div>
     <h3>Zhiyu Jiang</h3>
     <p>The University of Osaka</p>
   </div>
 
   <div class="person-card">
-    <div class="person-avatar placeholder">MO</div>
+    <div class="person-avatar placeholder">KO</div>
     <h3>Kouichi Okunishi</h3>
     <p>Osaka Metropolitan University</p>
   </div>
 
   <div class="person-card">
-    <div class="person-avatar placeholder">MO</div>
+    <div class="person-avatar placeholder">AM</div>
     <h3>Akira Matsumoto</h3>
     <p>Osaka Metropolitan University</p>
   </div>
@@ -38,7 +38,7 @@ draft: false
   </div>
 
   <div class="person-card">
-    <div class="person-avatar placeholder">KH</div>
+    <div class="person-avatar placeholder">NK</div>
     <h3>Naoki Kawashima</h3>
     <p>The University of Tokyo</p>
   </div>
