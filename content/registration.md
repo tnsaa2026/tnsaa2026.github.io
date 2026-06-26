@@ -3,18 +3,60 @@ title: "Registration"
 draft: false
 ---
 
-Registration information for TNSAA 2026 will be announced later.
+# Registration
 
-## Registration Fees
+Registration for TNSAA 2026 is now open.
 
-To be announced.
+Please complete the primary registration form below.
 
-## Important Notes
+<div class="registration-actions">
 
-- Registration will be required for all participants.
-- Details on payment, deadlines, and cancellation policy will be provided later.
-- Participants requiring visa-related documents should contact the organizers after registration opens.
+<a class="button primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfAdTQua_WWQEHO6Y0ROZPpCZ_idBbtF4ISWvIdSguEniaJTQ/viewform?usp=header&hl=en" target="_blank" rel="noopener">
+Primary Registration Form
+</a>
 
-## Workshop Dates
+</div>
 
-TNSAA 2026 will be held from **December 15–18, 2026** at the **RIKEN Center for Computational Science (R-CCS), Kobe, Japan**.
+---
+
+## Alternative Registration Form
+
+If you are unable to access Google Forms from your region or institution, please use the alternative registration form below.
+
+Please submit **only one** registration form. Do not submit both the primary and alternative forms.
+
+<div class="registration-actions">
+
+<a class="button secondary" href="https://v.wjx.cn/vm/rmuIuYV.aspx" target="_blank" rel="noopener">
+Alternative Registration Form
+</a>
+
+</div>
+
+---
+
+## Banquet / Networking Reception
+
+A banquet / networking reception is scheduled for **December 16** during the workshop.
+
+The workshop budget will cover the food at the reception, while participants are asked to pay a fee of **JPY 1,600** in advance to cover drinks.
+
+Participants who selected “Yes” for the banquet / networking reception in the registration form should complete the payment through the Stripe link below.
+
+<div class="registration-actions">
+
+<a class="button primary" href="https://buy.stripe.com/8x2eVe8zH0HDcAu9bFfEk01" target="_blank" rel="noopener">
+Pay Banquet Fee by Stripe
+</a>
+
+</div>
+
+If Stripe payment is not available from your region, please contact the organizing committee.
+
+---
+
+## Notes
+
+- The banquet / networking reception fee is **JPY 1,600** per participant.
+- The payment link is only for participants attending the banquet / networking reception.
+- Your banquet registration will be considered complete after both the registration form and the banquet fee payment have been submitted.
