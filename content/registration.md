@@ -21,6 +21,8 @@ Primary Registration Form
 
 If you are unable to access Google Forms from your region or institution, please use the alternative registration form below.
 
+Please note that some parts of the alternative form interface may appear in Chinese, but responses may be submitted in English.
+
 Please submit **only one** registration form. Do not submit both the primary and alternative forms.
 
 <div class="registration-actions">
