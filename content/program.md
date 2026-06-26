@@ -11,82 +11,76 @@ The tentative program below is subject to change.
 
 ## Tentative Program
 
+The detailed program will be announced closer to the workshop dates.
+The schedule below is tentative and subject to change.
+
 ### December 15 (Tue)
 
-| Time | Program |
-|---|---|
-| 08:30–09:00 | Registration |
-| 09:00–09:15 | Opening |
-| 09:15–09:45 | Talk 1: TBA |
-| 09:45–10:15 | Talk 2: TBA |
-| 10:15–10:45 | Coffee Break |
-| 10:45–11:15 | Talk 3: TBA |
-| 11:15–11:45 | Talk 4: TBA |
-| 11:45–13:30 | Lunch Break |
-| 13:30–14:00 | Talk 5: TBA |
-| 14:00–14:30 | Talk 6: TBA |
-| 14:30–15:00 | Coffee Break |
-| 15:00–15:30 | Talk 7: TBA |
-| 15:30–16:00 | Talk 8: TBA |
-| 16:00–17:00 | Discussion / Buffer |
+| Time        | Program             |
+| ----------- | ------------------- |
+| 12:30–13:00 | Registration        |
+| 13:00–13:15 | Opening             |
+| 13:15–13:45 | Talk 1: TBA         |
+| 13:45–14:15 | Talk 2: TBA         |
+| 14:15–14:45 | Talk 3: TBA         |
+| 14:45–15:15 | Coffee Break        |
+| 15:15–15:45 | Talk 4: TBA         |
+| 15:45–16:15 | Talk 5: TBA         |
+| 16:15–16:45 | Talk 6: TBA         |
+| 16:45–17:15 | Discussion / Buffer |
 
 ---
 
 ### December 16 (Wed)
 
-| Time | Program |
-|---|---|
-| 09:00–09:30 | Talk 9: TBA |
-| 09:30–10:00 | Talk 10: TBA |
-| 10:00–10:30 | Coffee Break |
-| 10:30–11:00 | Talk 11: TBA |
-| 11:00–11:30 | Talk 12: TBA |
-| 11:30–13:30 | Lunch Break |
-| 13:30–14:00 | Talk 13: TBA |
-| 14:00–14:30 | Talk 14: TBA |
-| 14:30–15:00 | Coffee Break |
-| 15:00–15:30 | Talk 15: TBA |
-| 15:30–16:00 | Talk 16: TBA |
-| 16:00–17:30 | Poster Session |
+| Time        | Program                        |
+| ----------- | ------------------------------ |
+| 09:00–09:30 | Talk 7: TBA                    |
+| 09:30–10:00 | Talk 8: TBA                    |
+| 10:00–10:30 | Coffee Break                   |
+| 10:30–11:00 | Talk 9: TBA                    |
+| 11:00–11:30 | Talk 10: TBA                   |
+| 11:30–13:30 | Lunch Break                    |
+| 13:30–14:00 | Talk 11: TBA                   |
+| 14:00–14:30 | Talk 12: TBA                   |
+| 14:30–15:00 | Coffee Break                   |
+| 15:00–15:30 | Talk 13: TBA                   |
+| 15:30–16:00 | Talk 14: TBA                   |
+| 16:00–17:30 | Poster Session                 |
 | 18:30–20:30 | Banquet / Networking Reception |
 
 ---
 
 ### December 17 (Thu)
 
-| Time | Program |
-|---|---|
-| 09:00–09:30 | Talk 17: TBA |
-| 09:30–10:00 | Talk 18: TBA |
-| 10:00–10:30 | Coffee Break |
-| 10:30–11:00 | Talk 19: TBA |
-| 11:00–11:30 | Talk 20: TBA |
-| 11:30–13:30 | Lunch Break |
-| 13:30–14:00 | Talk 21: TBA |
-| 14:00–14:30 | Talk 22: TBA |
-| 14:30–15:00 | Coffee Break |
-| 15:00–15:30 | Talk 23: TBA |
-| 15:30–16:00 | Talk 24: TBA |
-| 16:00–17:00 | Discussion / Buffer |
+| Time        | Program                              |
+| ----------- | ------------------------------------ |
+| 09:00–09:30 | Talk 15: TBA                         |
+| 09:30–10:00 | Talk 16: TBA                         |
+| 10:00–10:30 | Coffee Break                         |
+| 10:30–11:00 | Talk 17: TBA                         |
+| 11:00–11:30 | Talk 18: TBA                         |
+| 11:30–13:30 | Lunch Break                          |
+| 13:30–16:30 | Free Discussion / Collaboration Time |
 
 ---
 
 ### December 18 (Fri)
 
-| Time | Program |
-|---|---|
-| 09:00–09:30 | Talk 25: TBA |
-| 09:30–10:00 | Talk 26: TBA |
+| Time        | Program      |
+| ----------- | ------------ |
+| 09:00–09:30 | Talk 19: TBA |
+| 09:30–10:00 | Talk 20: TBA |
 | 10:00–10:30 | Coffee Break |
-| 10:30–11:00 | Talk 27: TBA |
-| 11:00–11:30 | Talk 28: TBA |
-| 11:30–13:30 | Lunch Break |
-| 13:30–14:00 | Talk 29: TBA |
-| 14:00–14:30 | Talk 30: TBA |
+| 10:30–11:00 | Talk 21: TBA |
+| 11:00–11:30 | Talk 22: TBA |
+| 11:30–13:30 | Lunch Break  |
+| 13:30–14:00 | Talk 23: TBA |
+| 14:00–14:30 | Talk 24: TBA |
 | 14:30–15:00 | Coffee Break |
-| 15:00–15:30 | Talk 31: TBA |
-| 15:30–16:00 | Talk 32: TBA |
-| 16:00–16:15 | Closing |
+| 15:00–15:30 | Talk 25: TBA |
+| 15:30–16:00 | Talk 26: TBA |
+| 16:00–16:15 | Closing      |
 
 ---
 
