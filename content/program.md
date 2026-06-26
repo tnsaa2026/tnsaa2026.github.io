@@ -43,11 +43,10 @@ The schedule below is tentative and subject to change.
 | 11:30–13:30 | Lunch Break                    |
 | 13:30–14:00 | Talk 11: TBA                   |
 | 14:00–14:30 | Talk 12: TBA                   |
-| 14:30–15:00 | Coffee Break                   |
-| 15:00–15:30 | Talk 13: TBA                   |
-| 15:30–16:00 | Talk 14: TBA                   |
-| 16:00–17:30 | Poster Session                 |
-| 18:30–20:30 | Banquet / Networking Reception |
+| 14:30–15:00 | Talk 13: TBA                   |
+| 15:00–15:30 | Coffee Break                   |
+| 15:30–17:00 | Poster Session                 |
+| 18:00–20:00 | Banquet / Networking Reception |
 
 ---
 
@@ -55,36 +54,35 @@ The schedule below is tentative and subject to change.
 
 | Time        | Program                              |
 | ----------- | ------------------------------------ |
-| 09:00–09:30 | Talk 15: TBA                         |
-| 09:30–10:00 | Talk 16: TBA                         |
+| 09:00–09:30 | Talk 14: TBA                         |
+| 09:30–10:00 | Talk 15: TBA                         |
 | 10:00–10:30 | Coffee Break                         |
-| 10:30–11:00 | Talk 17: TBA                         |
-| 11:00–11:30 | Talk 18: TBA                         |
+| 10:30–11:00 | Talk 16: TBA                         |
+| 11:00–11:30 | Talk 17: TBA                         |
 | 11:30–13:30 | Lunch Break                          |
-| 13:30–14:00 | Talk 19: TBA                         |
-| 14:00–14:30 | Talk 20: TBA                         |
+| 13:30–14:00 | Talk 18: TBA                         |
+| 14:00–14:30 | Talk 19: TBA                         |
 | 14:30–15:00 | Coffee Break                         |
 | 15:00–17:00 | Free Discussion / Collaboration Time |
-
 
 ---
 
 ### December 18 (Fri)
 
-| Time | Program |
-|---|---|
-| 09:00–09:30 | Talk 21: TBA |
-| 09:30–10:00 | Talk 22: TBA |
+| Time        | Program      |
+| ----------- | ------------ |
+| 09:00–09:30 | Talk 20: TBA |
+| 09:30–10:00 | Talk 21: TBA |
 | 10:00–10:30 | Coffee Break |
-| 10:30–11:00 | Talk 23: TBA |
-| 11:00–11:30 | Talk 24: TBA |
-| 11:30–13:30 | Lunch Break |
-| 13:30–14:00 | Talk 25: TBA |
-| 14:00–14:30 | Talk 26: TBA |
+| 10:30–11:00 | Talk 22: TBA |
+| 11:00–11:30 | Talk 23: TBA |
+| 11:30–13:30 | Lunch Break  |
+| 13:30–14:00 | Talk 24: TBA |
+| 14:00–14:30 | Talk 25: TBA |
 | 14:30–15:00 | Coffee Break |
-| 15:00–15:30 | Talk 27: TBA |
-| 15:30–16:00 | Talk 28: TBA |
-| 16:00–16:15 | Closing |
+| 15:00–15:30 | Talk 26: TBA |
+| 15:30–16:00 | Talk 27: TBA |
+| 16:00–16:15 | Closing      |
 
 ---
 
