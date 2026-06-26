@@ -3,8 +3,6 @@ title: "Venue"
 draft: false
 ---
 
-![Kobe venue](/images/kobe-venue.webp)
-
 TNSAA 2026 will be held at the RIKEN Center for Computational Science (R-CCS) in Kobe, Japan.
 
 ![Kobe venue](/images/kobe-venue.webp)
