@@ -5,7 +5,8 @@ draft: false
 
 Registration for TNSAA 2026 is now open.
 
-Please complete the primary registration form below.
+Please complete the primary registration form below.  
+If you are unable to access Google Forms from your region or institution, please use the alternative registration form.
 
 <div class="registration-actions">
 
@@ -13,25 +14,15 @@ Please complete the primary registration form below.
 Primary Registration Form
 </a>
 
-</div>
-
----
-
-## Alternative Registration Form
-
-If you are unable to access Google Forms from your region or institution, please use the alternative registration form below.
-
-Please note that some parts of the alternative form interface may appear in Chinese, but responses may be submitted in English.
-
-Please submit **only one** registration form. Do not submit both the primary and alternative forms.
-
-<div class="registration-actions">
-
 <a class="button secondary" href="https://v.wjx.cn/vm/rmuIuYV.aspx" target="_blank" rel="noopener">
 Alternative Registration Form
 </a>
 
 </div>
+
+Please submit **only one** registration form. Do not submit both forms.
+
+*Some parts of the alternative form interface may appear in Chinese, but responses may be submitted in English.*
 
 ---
 
