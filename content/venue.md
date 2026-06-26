@@ -74,13 +74,13 @@ Hotel information and recommended options may be announced later.
 
 # Visa Information
 
-Participants who require a visa to enter Japan are encouraged to contact the organizers well in advance.
+Participants who require an invitation letter for visa application purposes should indicate this in the registration form.
 
-Information on invitation letters and visa support procedures will be provided upon request.
+The organizing committee will contact participants who request visa support after their registration has been submitted.
 
-Please contact:
+Please note that visa support documents can only be issued to registered participants.
 
-[tnsaa2026@qiqb.osaka-u.ac.jp](mailto:tnsaa2026@qiqb.osaka-u.ac.jp)
+For further inquiries, please refer to the [Contact page](/contact/).
 
 ---
 
