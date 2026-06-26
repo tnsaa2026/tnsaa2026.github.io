@@ -1,8 +1,7 @@
 ---
-
 title: "Call for Contributions"
 draft: false
-------------
+---
 
 TNSAA 2026 welcomes contributed presentations from researchers working on tensor network states, algorithms, and applications, as well as related areas.
 

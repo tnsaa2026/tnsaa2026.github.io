@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>TNSAA 2026</title><link>https://tnsaa2026.github.io/</link><description>Recent content on TNSAA 2026</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://tnsaa2026.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://tnsaa2026.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/about/</guid><description>&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The Density Matrix Renormalization Group (DMRG) and its generalizations in the form of Tensor Network States have made significant contributions across a wide range of fields, including condensed matter physics, statistical physics, quantum chemistry, nuclear physics, quantum information, and machine learning.&lt;/p&gt;
-&lt;p&gt;The Tensor Network States: Algorithms and Applications (TNSAA) workshops were established to highlight these developments, providing a platform for presenting new algorithmic advances and their applications in uncovering novel physics.&lt;/p&gt;</description></item><item><title>Call for Contributions</title><link>https://tnsaa2026.github.io/call-for-papers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/call-for-papers/</guid><description>&lt;hr&gt;
-&lt;p&gt;TNSAA 2026 welcomes contributed presentations from researchers working on tensor network states, algorithms, and applications, as well as related areas.&lt;/p&gt;
+&lt;p&gt;The Tensor Network States: Algorithms and Applications (TNSAA) workshops were established to highlight these developments, providing a platform for presenting new algorithmic advances and their applications in uncovering novel physics.&lt;/p&gt;</description></item><item><title>Call for Contributions</title><link>https://tnsaa2026.github.io/call-for-papers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/call-for-papers/</guid><description>&lt;p&gt;TNSAA 2026 welcomes contributed presentations from researchers working on tensor network states, algorithms, and applications, as well as related areas.&lt;/p&gt;
 &lt;p&gt;Contributions may be considered for either oral or poster presentations.&lt;/p&gt;
 &lt;p&gt;There will be no formal proceedings for TNSAA 2026. The purpose of the contributed presentations is to encourage discussion, exchange recent results, and foster collaborations within the tensor network and related research communities.&lt;/p&gt;
 &lt;h2 id="topics"&gt;Topics&lt;/h2&gt;
@@ -12,11 +11,12 @@
 &lt;hr&gt;
 &lt;h2 id="venue"&gt;Venue&lt;/h2&gt;
 &lt;p&gt;RIKEN Center for Computational Science (R-CCS)&lt;br&gt;
-Kobe, Japan&lt;/p&gt;</description></item><item><title>News</title><link>https://tnsaa2026.github.io/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/news/</guid><description>&lt;h2 id="registration-is-now-open"&gt;Registration is now open&lt;/h2&gt;
-&lt;p&gt;Registration for TNSAA 2026 is now open.&lt;/p&gt;
-&lt;p&gt;The registration deadline is &lt;strong&gt;November 15, 2026&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Participants who plan to attend the banquet / networking reception are also asked to complete the banquet fee payment by &lt;strong&gt;November 15, 2026&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Please visit the &lt;a href="https://tnsaa2026.github.io/registration/"&gt;Registration page&lt;/a&gt; for details.&lt;/p&gt;
+Kobe, Japan&lt;/p&gt;</description></item><item><title>News</title><link>https://tnsaa2026.github.io/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/news/</guid><description>&lt;h2 id="registration-and-contribution-submission-are-now-open"&gt;Registration and contribution submission are now open&lt;/h2&gt;
+&lt;p&gt;Registration and contribution submission for TNSAA 2026 are now open.&lt;/p&gt;
+&lt;p&gt;The contribution submission deadline is &lt;strong&gt;October 15, 2026&lt;/strong&gt;.&lt;br&gt;
+Notification of acceptance will be sent by &lt;strong&gt;October 31, 2026&lt;/strong&gt;.&lt;br&gt;
+The registration deadline is &lt;strong&gt;November 15, 2026&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Please visit the &lt;a href="https://tnsaa2026.github.io/registration/"&gt;Registration page&lt;/a&gt; or &lt;a href="https://tnsaa2026.github.io/call-for-papers/"&gt;Call for Contributions page&lt;/a&gt; for details.&lt;/p&gt;
 &lt;h2 id="website-launched"&gt;Website launched&lt;/h2&gt;
 &lt;p&gt;The official website of TNSAA 2026 is now online.&lt;/p&gt;
 &lt;h2 id="venue-confirmed"&gt;Venue confirmed&lt;/h2&gt;

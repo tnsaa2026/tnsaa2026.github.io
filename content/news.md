@@ -3,15 +3,15 @@ title: "News"
 draft: false
 ---
 
-## Registration is now open
+## Registration and contribution submission are now open
 
-Registration for TNSAA 2026 is now open.
+Registration and contribution submission for TNSAA 2026 are now open.
 
+The contribution submission deadline is **October 15, 2026**.  
+Notification of acceptance will be sent by **October 31, 2026**.  
 The registration deadline is **November 15, 2026**.
 
-Participants who plan to attend the banquet / networking reception are also asked to complete the banquet fee payment by **November 15, 2026**.
-
-Please visit the [Registration page](/registration/) for details.
+Please visit the [Registration page](/registration/) or [Call for Contributions page](/call-for-papers/) for details.
 
 ## Website launched
 
