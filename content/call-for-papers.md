@@ -50,6 +50,6 @@ Please submit **only one** registration form. Do not submit both forms.
 
 ## Important Dates
 
-* Contribution submission deadline: **TBA**
-* Notification of acceptance: **TBA**
+* Contribution submission deadline: **October 15, 2026**
+* Notification of acceptance: **October 31, 2026**
 * Registration deadline: **November 15, 2026**
