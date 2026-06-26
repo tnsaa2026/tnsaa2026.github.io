@@ -50,11 +50,3 @@ Pay Banquet Fee by Stripe
 </div>
 
 If Stripe payment is not available from your region, please contact the organizing committee.
-
----
-
-## Notes
-
-- The banquet / networking reception fee is **JPY 1,600** per participant.
-- The payment link is only for participants attending the banquet / networking reception.
-- Your banquet registration will be considered complete after both the registration form and the banquet fee payment have been submitted.
