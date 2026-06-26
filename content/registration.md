@@ -24,6 +24,12 @@ Please submit **only one** registration form. Do not submit both forms.
 
 *Some parts of the alternative form interface may appear in Chinese, but responses may be submitted in English.*
 
+## Registration Deadline
+
+The registration deadline is **November 15, 2026**.
+
+Participants who plan to attend the banquet / networking reception are also asked to complete the banquet fee payment by **November 15, 2026**.
+
 ---
 
 ## Banquet / Networking Reception
