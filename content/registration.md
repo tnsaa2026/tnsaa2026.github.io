@@ -3,8 +3,6 @@ title: "Registration"
 draft: false
 ---
 
-# Registration
-
 Registration for TNSAA 2026 is now open.
 
 Please complete the primary registration form below.
