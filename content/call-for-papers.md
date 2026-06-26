@@ -1,44 +1,55 @@
 ---
-title: "Call for Papers"
+
+title: "Call for Contributions"
 draft: false
----
+------------
 
-TNSAA 2026 is an international workshop on tensor network states, algorithms, and applications.
+TNSAA 2026 welcomes contributed presentations from researchers working on tensor network states, algorithms, and applications, as well as related areas.
 
-In addition to invited talks, the workshop welcomes contributed presentations from researchers and students working in related areas.
+Contributions may be considered for either oral or poster presentations.
+
+There will be no formal proceedings for TNSAA 2026. The purpose of the contributed presentations is to encourage discussion, exchange recent results, and foster collaborations within the tensor network and related research communities.
 
 ## Topics
 
-Topics include, but are not limited to:
+Relevant topics include, but are not limited to:
 
-- Tensor network algorithms
-- Quantum many-body systems
-- Quantum information and computation
-- Numerical methods for strongly correlated systems
-- Machine learning and tensor networks
-- Quantum simulation
-- Applications of tensor networks in physics, chemistry, and related fields
+* Tensor network algorithms
+* Quantum many-body systems
+* Statistical physics
+* Quantum information and computation
+* Quantum chemistry
+* Machine learning and tensor networks
+* Quantum simulation
+* Numerical methods and high-performance computing
+* Related applications of tensor network methods
 
-## Presentation Formats
+## Submission
 
-Contributed presentations may be accepted as:
+Those who wish to give a contributed presentation should complete the registration form and select **“Contributed Presenter”** as the participation type.
 
-- Oral presentations
-- Poster presentations
+The presentation title and abstract should be submitted through the registration form.
 
-The final presentation format will be determined by the organizing committee.
+<div class="registration-actions">
 
-## Submission Information
+<a class="button primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfAdTQua_WWQEHO6Y0ROZPpCZ_idBbtF4ISWvIdSguEniaJTQ/viewform?usp=header&hl=en" target="_blank" rel="noopener">
+Primary Registration Form
+</a>
 
-Submission instructions and important dates will be announced later.
+<a class="button secondary" href="https://v.wjx.cn/vm/rmuIuYV.aspx" target="_blank" rel="noopener">
+Alternative Registration Form
+</a>
+
+</div>
+
+If you are unable to access Google Forms from your region or institution, please use the alternative registration form.
+
+Please submit **only one** registration form. Do not submit both forms.
+
+*Some parts of the alternative form interface may appear in Chinese, but responses may be submitted in English.*
 
 ## Important Dates
 
-- Submission opens: To be announced
-- Submission deadline: To be announced
-- Notification of acceptance: To be announced
-- Workshop: December 15–18, 2026
-
-## Proceedings
-
-TNSAA 2026 does not plan to publish formal proceedings.
+* Contribution submission deadline: **TBA**
+* Notification of acceptance: **TBA**
+* Registration deadline: **November 15, 2026**
