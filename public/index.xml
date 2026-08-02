@@ -1,337 +1,410 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>TNSAA 2026</title><link>https://tnsaa2026.github.io/</link><description>Recent content on TNSAA 2026</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://tnsaa2026.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://tnsaa2026.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/about/</guid><description>&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TNSAA 2026</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on TNSAA 2026</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The Density Matrix Renormalization Group (DMRG) and its generalizations in the form of Tensor Network States have made significant contributions across a wide range of fields, including condensed matter physics, statistical physics, quantum chemistry, nuclear physics, quantum information, and machine learning.&lt;/p&gt;
-&lt;p&gt;The Tensor Network States: Algorithms and Applications (TNSAA) workshops were established to highlight these developments, providing a platform for presenting new algorithmic advances and their applications in uncovering novel physics.&lt;/p&gt;</description></item><item><title>Call for Contributions</title><link>https://tnsaa2026.github.io/call-for-papers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/call-for-papers/</guid><description>&lt;p&gt;TNSAA 2026 welcomes contributed presentations from researchers working on tensor network states, algorithms, and applications, as well as related areas.&lt;/p&gt;
+&lt;p&gt;The Tensor Network States: Algorithms and Applications (TNSAA) workshops were established to highlight these developments, providing a platform for presenting new algorithmic advances and their applications in uncovering novel physics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Call for Contributions</title>
+      <link>http://localhost:1313/call-for-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/call-for-papers/</guid>
+      <description>&lt;p&gt;TNSAA 2026 welcomes contributed presentations from researchers working on tensor network states, algorithms, and applications, as well as related areas.&lt;/p&gt;
 &lt;p&gt;Contributions may be considered for either oral or poster presentations.&lt;/p&gt;
 &lt;p&gt;There will be no formal proceedings for TNSAA 2026. The purpose of the contributed presentations is to encourage discussion, exchange recent results, and foster collaborations within the tensor network and related research communities.&lt;/p&gt;
-&lt;h2 id="topics"&gt;Topics&lt;/h2&gt;
-&lt;p&gt;Relevant topics include, but are not limited to:&lt;/p&gt;</description></item><item><title>Contact</title><link>https://tnsaa2026.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/contact/</guid><description>&lt;p&gt;For inquiries regarding TNSAA 2026, please contact:&lt;/p&gt;
-&lt;h2 id="tnsaa-2026-organizing-committee"&gt;TNSAA 2026 Organizing Committee&lt;/h2&gt;
+&lt;h2 id=&#34;topics&#34;&gt;Topics&lt;/h2&gt;
+&lt;p&gt;Relevant topics include, but are not limited to:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;For inquiries regarding TNSAA 2026, please contact:&lt;/p&gt;
+&lt;h2 id=&#34;tnsaa-2026-organizing-committee&#34;&gt;TNSAA 2026 Organizing Committee&lt;/h2&gt;
 &lt;p&gt;Email:&lt;br&gt;
-&lt;a href="mailto:ueda.hiroshi.qiqb@osaka-u.ac.jp"&gt;ueda.hiroshi.qiqb@osaka-u.ac.jp&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;mailto:ueda.hiroshi.qiqb@osaka-u.ac.jp&#34;&gt;ueda.hiroshi.qiqb@osaka-u.ac.jp&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id="venue"&gt;Venue&lt;/h2&gt;
+&lt;h2 id=&#34;venue&#34;&gt;Venue&lt;/h2&gt;
 &lt;p&gt;RIKEN Center for Computational Science (R-CCS)&lt;br&gt;
-Kobe, Japan&lt;/p&gt;</description></item><item><title>News</title><link>https://tnsaa2026.github.io/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/news/</guid><description>&lt;h2 id="registration-and-contribution-submission-are-now-open"&gt;Registration and contribution submission are now open&lt;/h2&gt;
+Kobe, Japan&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/</guid>
+      <description>&lt;h2 id=&#34;registration-and-contribution-submission-are-now-open&#34;&gt;Registration and contribution submission are now open&lt;/h2&gt;
 &lt;p&gt;Registration and contribution submission for TNSAA 2026 are now open.&lt;/p&gt;
 &lt;p&gt;The contribution submission deadline is &lt;strong&gt;October 15, 2026&lt;/strong&gt;.&lt;br&gt;
 Notification of acceptance will be sent by &lt;strong&gt;October 31, 2026&lt;/strong&gt;.&lt;br&gt;
 The registration deadline is &lt;strong&gt;November 15, 2026&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Please visit the &lt;a href="https://tnsaa2026.github.io/registration/"&gt;Registration page&lt;/a&gt; or &lt;a href="https://tnsaa2026.github.io/call-for-papers/"&gt;Call for Contributions page&lt;/a&gt; for details.&lt;/p&gt;
-&lt;h2 id="website-launched"&gt;Website launched&lt;/h2&gt;
+&lt;p&gt;Please visit the &lt;a href=&#34;http://localhost:1313/registration/&#34;&gt;Registration page&lt;/a&gt; or &lt;a href=&#34;http://localhost:1313/call-for-papers/&#34;&gt;Call for Contributions page&lt;/a&gt; for details.&lt;/p&gt;
+&lt;h2 id=&#34;website-launched&#34;&gt;Website launched&lt;/h2&gt;
 &lt;p&gt;The official website of TNSAA 2026 is now online.&lt;/p&gt;
-&lt;h2 id="venue-confirmed"&gt;Venue confirmed&lt;/h2&gt;
-&lt;p&gt;TNSAA 2026 will be held at the RIKEN Center for Computational Science (R-CCS), Kobe, Japan.&lt;/p&gt;</description></item><item><title>Organizers</title><link>https://tnsaa2026.github.io/organizers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/organizers/</guid><description>&lt;h2 id="organizing-committee"&gt;Organizing Committee&lt;/h2&gt;
-&lt;div class="person-grid"&gt;
-&lt;div class="person-card"&gt;
-&lt;div class="person-avatar placeholder"&gt;HU&lt;/div&gt;
-&lt;h3&gt;Hiroshi Ueda&lt;/h3&gt;
-&lt;p&gt;The University of Osaka&lt;/p&gt;
+&lt;h2 id=&#34;venue-confirmed&#34;&gt;Venue confirmed&lt;/h2&gt;
+&lt;p&gt;TNSAA 2026 will be held at the RIKEN Center for Computational Science (R-CCS), Kobe, Japan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Organizers</title>
+      <link>http://localhost:1313/organizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/organizers/</guid>
+      <description>&lt;h2 id=&#34;organizing-committee&#34;&gt;Organizing Committee&lt;/h2&gt;
+&lt;div class=&#34;person-grid&#34;&gt;
+  &lt;div class=&#34;person-card&#34;&gt;
+    &lt;div class=&#34;person-avatar placeholder&#34;&gt;HU&lt;/div&gt;
+    &lt;h3&gt;Hiroshi Ueda&lt;/h3&gt;
+    &lt;p&gt;The University of Osaka&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;person-card&#34;&gt;
+    &lt;div class=&#34;person-avatar placeholder&#34;&gt;ZJ&lt;/div&gt;
+    &lt;h3&gt;Zhiyu Jiang&lt;/h3&gt;
+    &lt;p&gt;The University of Osaka&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;person-card&#34;&gt;
+    &lt;div class=&#34;person-avatar placeholder&#34;&gt;KO&lt;/div&gt;
+    &lt;h3&gt;Kouichi Okunishi&lt;/h3&gt;
+    &lt;p&gt;Osaka Metropolitan University&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;person-card&#34;&gt;
+    &lt;div class=&#34;person-avatar placeholder&#34;&gt;AM&lt;/div&gt;
+    &lt;h3&gt;Akira Matsumoto&lt;/h3&gt;
+    &lt;p&gt;Osaka Metropolitan University&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;person-card&#34;&gt;
+    &lt;div class=&#34;person-avatar placeholder&#34;&gt;SG&lt;/div&gt;
+    &lt;h3&gt;Shimpei Goto&lt;/h3&gt;
+    &lt;p&gt;The University of Tokyo&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;person-card&#34;&gt;
+    &lt;div class=&#34;person-avatar placeholder&#34;&gt;SY&lt;/div&gt;
+    &lt;h3&gt;Seiji Yunoki&lt;/h3&gt;
+    &lt;p&gt;RIKEN&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;person-card&#34;&gt;
+    &lt;div class=&#34;person-avatar placeholder&#34;&gt;NK&lt;/div&gt;
+    &lt;h3&gt;Naoki Kawashima&lt;/h3&gt;
+    &lt;p&gt;The University of Tokyo&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;person-card&#34;&gt;
+    &lt;div class=&#34;person-avatar placeholder&#34;&gt;TN&lt;/div&gt;
+    &lt;h3&gt;Tomotoshi Nishino&lt;/h3&gt;
+    &lt;p&gt;Kobe University&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="person-card"&gt;
-&lt;div class="person-avatar placeholder"&gt;ZJ&lt;/div&gt;
-&lt;h3&gt;Zhiyu Jiang&lt;/h3&gt;
-&lt;p&gt;The University of Osaka&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="person-card"&gt;
-&lt;div class="person-avatar placeholder"&gt;KO&lt;/div&gt;
-&lt;h3&gt;Kouichi Okunishi&lt;/h3&gt;
-&lt;p&gt;Osaka Metropolitan University&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="person-card"&gt;
-&lt;div class="person-avatar placeholder"&gt;AM&lt;/div&gt;
-&lt;h3&gt;Akira Matsumoto&lt;/h3&gt;
-&lt;p&gt;Osaka Metropolitan University&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="person-card"&gt;
-&lt;div class="person-avatar placeholder"&gt;SG&lt;/div&gt;
-&lt;h3&gt;Shimpei Goto&lt;/h3&gt;
-&lt;p&gt;The University of Tokyo&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="person-card"&gt;
-&lt;div class="person-avatar placeholder"&gt;SY&lt;/div&gt;
-&lt;h3&gt;Seiji Yunoki&lt;/h3&gt;
-&lt;p&gt;RIKEN&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="person-card"&gt;
-&lt;div class="person-avatar placeholder"&gt;NK&lt;/div&gt;
-&lt;h3&gt;Naoki Kawashima&lt;/h3&gt;
-&lt;p&gt;The University of Tokyo&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="person-card"&gt;
-&lt;div class="person-avatar placeholder"&gt;TN&lt;/div&gt;
-&lt;h3&gt;Tomotoshi Nishino&lt;/h3&gt;
-&lt;p&gt;Kobe University&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2 id="advisory-committee"&gt;Advisory Committee&lt;/h2&gt;
-&lt;div class="person-grid"&gt;
-&lt;div class="person-card"&gt;
-&lt;div class="person-avatar placeholder"&gt;YK&lt;/div&gt;
-&lt;h3&gt;Ying-Jer Kao&lt;/h3&gt;
-&lt;p&gt;National Taiwan University (NTU)&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="person-card"&gt;
-&lt;div class="person-avatar placeholder"&gt;ZG&lt;/div&gt;
-&lt;h3&gt;Zhengcheng Gu&lt;/h3&gt;
-&lt;p&gt;The Chinese University of Hong Kong (CUHK)&lt;/p&gt;</description></item><item><title>Program</title><link>https://tnsaa2026.github.io/program/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/program/</guid><description>&lt;p&gt;The detailed program will be announced closer to the workshop dates.&lt;/p&gt;
+&lt;h2 id=&#34;advisory-committee&#34;&gt;Advisory Committee&lt;/h2&gt;
+&lt;div class=&#34;person-grid&#34;&gt;
+  &lt;div class=&#34;person-card&#34;&gt;
+    &lt;div class=&#34;person-avatar placeholder&#34;&gt;YK&lt;/div&gt;
+    &lt;h3&gt;Ying-Jer Kao&lt;/h3&gt;
+    &lt;p&gt;National Taiwan University (NTU)&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;person-card&#34;&gt;
+    &lt;div class=&#34;person-avatar placeholder&#34;&gt;ZG&lt;/div&gt;
+    &lt;h3&gt;Zhengcheng Gu&lt;/h3&gt;
+    &lt;p&gt;The Chinese University of Hong Kong (CUHK)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Program</title>
+      <link>http://localhost:1313/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/program/</guid>
+      <description>&lt;p&gt;The detailed program will be announced closer to the workshop dates.&lt;/p&gt;
 &lt;p&gt;The tentative program below is subject to change.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id="tentative-program"&gt;Tentative Program&lt;/h2&gt;
+&lt;h2 id=&#34;tentative-program&#34;&gt;Tentative Program&lt;/h2&gt;
 &lt;p&gt;The detailed program will be announced closer to the workshop dates.
 The schedule below is tentative and subject to change.&lt;/p&gt;
-&lt;h3 id="december-15-tue"&gt;December 15 (Tue)&lt;/h3&gt;
+&lt;h3 id=&#34;december-15-tue&#34;&gt;December 15 (Tue)&lt;/h3&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Time&lt;/th&gt;
-&lt;th&gt;Program&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;12:30–13:00&lt;/td&gt;
-&lt;td&gt;Registration&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:00–13:15&lt;/td&gt;
-&lt;td&gt;Opening&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:15–13:45&lt;/td&gt;
-&lt;td&gt;Talk 1: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:45–14:15&lt;/td&gt;
-&lt;td&gt;Talk 2: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:15–14:45&lt;/td&gt;
-&lt;td&gt;Talk 3: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:45–15:15&lt;/td&gt;
-&lt;td&gt;Coffee Break&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:15–15:45&lt;/td&gt;
-&lt;td&gt;Talk 4: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:45–16:15&lt;/td&gt;
-&lt;td&gt;Talk 5: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;16:15–16:45&lt;/td&gt;
-&lt;td&gt;Talk 6: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;16:45–17:15&lt;/td&gt;
-&lt;td&gt;Discussion / Buffer&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Time&lt;/th&gt;
+          &lt;th&gt;Program&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;12:30–13:00&lt;/td&gt;
+          &lt;td&gt;Registration&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13:00–13:15&lt;/td&gt;
+          &lt;td&gt;Opening&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13:15–13:45&lt;/td&gt;
+          &lt;td&gt;Talk 1: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13:45–14:15&lt;/td&gt;
+          &lt;td&gt;Talk 2: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:15–14:45&lt;/td&gt;
+          &lt;td&gt;Talk 3: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:45–15:15&lt;/td&gt;
+          &lt;td&gt;Coffee Break&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:15–15:45&lt;/td&gt;
+          &lt;td&gt;Talk 4: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:45–16:15&lt;/td&gt;
+          &lt;td&gt;Talk 5: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16:15–16:45&lt;/td&gt;
+          &lt;td&gt;Talk 6: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16:45–17:15&lt;/td&gt;
+          &lt;td&gt;Discussion / Buffer&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h3 id="december-16-wed"&gt;December 16 (Wed)&lt;/h3&gt;
+&lt;h3 id=&#34;december-16-wed&#34;&gt;December 16 (Wed)&lt;/h3&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Time&lt;/th&gt;
-&lt;th&gt;Program&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;09:00–09:30&lt;/td&gt;
-&lt;td&gt;Talk 7: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09:30–10:00&lt;/td&gt;
-&lt;td&gt;Talk 8: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10:00–10:30&lt;/td&gt;
-&lt;td&gt;Coffee Break&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10:30–11:00&lt;/td&gt;
-&lt;td&gt;Talk 9: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11:00–11:30&lt;/td&gt;
-&lt;td&gt;Talk 10: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11:30–13:30&lt;/td&gt;
-&lt;td&gt;Lunch Break&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:30–14:00&lt;/td&gt;
-&lt;td&gt;Talk 11: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:00–14:30&lt;/td&gt;
-&lt;td&gt;Talk 12: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:30–15:00&lt;/td&gt;
-&lt;td&gt;Talk 13: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:00–15:30&lt;/td&gt;
-&lt;td&gt;Coffee Break&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:30–17:00&lt;/td&gt;
-&lt;td&gt;Poster Session&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;18:00–20:00&lt;/td&gt;
-&lt;td&gt;Banquet / Networking Reception&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Time&lt;/th&gt;
+          &lt;th&gt;Program&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09:00–09:30&lt;/td&gt;
+          &lt;td&gt;Talk 7: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09:30–10:00&lt;/td&gt;
+          &lt;td&gt;Talk 8: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:00–10:30&lt;/td&gt;
+          &lt;td&gt;Coffee Break&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:30–11:00&lt;/td&gt;
+          &lt;td&gt;Talk 9: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:00–11:30&lt;/td&gt;
+          &lt;td&gt;Talk 10: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:30–13:30&lt;/td&gt;
+          &lt;td&gt;Lunch Break&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13:30–14:00&lt;/td&gt;
+          &lt;td&gt;Talk 11: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:00–14:30&lt;/td&gt;
+          &lt;td&gt;Talk 12: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:30–15:00&lt;/td&gt;
+          &lt;td&gt;Talk 13: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:00–15:30&lt;/td&gt;
+          &lt;td&gt;Coffee Break&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:30–17:00&lt;/td&gt;
+          &lt;td&gt;Poster Session&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;18:00–20:00&lt;/td&gt;
+          &lt;td&gt;Banquet / Networking Reception&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h3 id="december-17-thu"&gt;December 17 (Thu)&lt;/h3&gt;
+&lt;h3 id=&#34;december-17-thu&#34;&gt;December 17 (Thu)&lt;/h3&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Time&lt;/th&gt;
-&lt;th&gt;Program&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;09:00–09:30&lt;/td&gt;
-&lt;td&gt;Talk 14: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09:30–10:00&lt;/td&gt;
-&lt;td&gt;Talk 15: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10:00–10:30&lt;/td&gt;
-&lt;td&gt;Coffee Break&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10:30–11:00&lt;/td&gt;
-&lt;td&gt;Talk 16: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11:00–11:30&lt;/td&gt;
-&lt;td&gt;Talk 17: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11:30–13:30&lt;/td&gt;
-&lt;td&gt;Lunch Break&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:30–14:00&lt;/td&gt;
-&lt;td&gt;Talk 18: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:00–14:30&lt;/td&gt;
-&lt;td&gt;Talk 19: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:30–15:00&lt;/td&gt;
-&lt;td&gt;Coffee Break&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:00–17:00&lt;/td&gt;
-&lt;td&gt;Free Discussion / Collaboration Time&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Time&lt;/th&gt;
+          &lt;th&gt;Program&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09:00–09:30&lt;/td&gt;
+          &lt;td&gt;Talk 14: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09:30–10:00&lt;/td&gt;
+          &lt;td&gt;Talk 15: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:00–10:30&lt;/td&gt;
+          &lt;td&gt;Coffee Break&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:30–11:00&lt;/td&gt;
+          &lt;td&gt;Talk 16: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:00–11:30&lt;/td&gt;
+          &lt;td&gt;Talk 17: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:30–13:30&lt;/td&gt;
+          &lt;td&gt;Lunch Break&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13:30–14:00&lt;/td&gt;
+          &lt;td&gt;Talk 18: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:00–14:30&lt;/td&gt;
+          &lt;td&gt;Talk 19: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:30–15:00&lt;/td&gt;
+          &lt;td&gt;Coffee Break&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:00–17:00&lt;/td&gt;
+          &lt;td&gt;Free Discussion / Collaboration Time&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h3 id="december-18-fri"&gt;December 18 (Fri)&lt;/h3&gt;
+&lt;h3 id=&#34;december-18-fri&#34;&gt;December 18 (Fri)&lt;/h3&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Time&lt;/th&gt;
-&lt;th&gt;Program&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;09:00–09:30&lt;/td&gt;
-&lt;td&gt;Talk 20: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;09:30–10:00&lt;/td&gt;
-&lt;td&gt;Talk 21: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10:00–10:30&lt;/td&gt;
-&lt;td&gt;Coffee Break&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;10:30–11:00&lt;/td&gt;
-&lt;td&gt;Talk 22: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11:00–11:30&lt;/td&gt;
-&lt;td&gt;Talk 23: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;11:30–13:30&lt;/td&gt;
-&lt;td&gt;Lunch Break&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;13:30–14:00&lt;/td&gt;
-&lt;td&gt;Talk 24: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:00–14:30&lt;/td&gt;
-&lt;td&gt;Talk 25: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14:30–15:00&lt;/td&gt;
-&lt;td&gt;Coffee Break&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:00–15:30&lt;/td&gt;
-&lt;td&gt;Talk 26: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15:30–16:00&lt;/td&gt;
-&lt;td&gt;Talk 27: TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;16:00–16:15&lt;/td&gt;
-&lt;td&gt;Closing&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Time&lt;/th&gt;
+          &lt;th&gt;Program&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09:00–09:30&lt;/td&gt;
+          &lt;td&gt;Talk 20: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;09:30–10:00&lt;/td&gt;
+          &lt;td&gt;Talk 21: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:00–10:30&lt;/td&gt;
+          &lt;td&gt;Coffee Break&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10:30–11:00&lt;/td&gt;
+          &lt;td&gt;Talk 22: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:00–11:30&lt;/td&gt;
+          &lt;td&gt;Talk 23: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11:30–13:30&lt;/td&gt;
+          &lt;td&gt;Lunch Break&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;13:30–14:00&lt;/td&gt;
+          &lt;td&gt;Talk 24: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:00–14:30&lt;/td&gt;
+          &lt;td&gt;Talk 25: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14:30–15:00&lt;/td&gt;
+          &lt;td&gt;Coffee Break&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:00–15:30&lt;/td&gt;
+          &lt;td&gt;Talk 26: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;15:30–16:00&lt;/td&gt;
+          &lt;td&gt;Talk 27: TBA&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;16:00–16:15&lt;/td&gt;
+          &lt;td&gt;Closing&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h2 id="invited-talks"&gt;Invited Talks&lt;/h2&gt;
-&lt;p&gt;Invited talks will be scheduled throughout the workshop.&lt;/p&gt;</description></item><item><title>Registration</title><link>https://tnsaa2026.github.io/registration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/registration/</guid><description>&lt;p&gt;Registration for TNSAA 2026 is now open.&lt;/p&gt;
+&lt;h2 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h2&gt;
+&lt;p&gt;Invited talks will be scheduled throughout the workshop.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Registration</title>
+      <link>http://localhost:1313/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/registration/</guid>
+      <description>&lt;p&gt;Registration for TNSAA 2026 is now open.&lt;/p&gt;
 &lt;p&gt;Please complete the primary registration form below.&lt;br&gt;
 If you are unable to access Google Forms from your region or institution, please use the alternative registration form.&lt;/p&gt;
-&lt;div class="registration-actions"&gt;
-&lt;a class="button primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfAdTQua_WWQEHO6Y0ROZPpCZ_idBbtF4ISWvIdSguEniaJTQ/viewform?usp=header&amp;hl=en" target="_blank" rel="noopener"&gt;
+&lt;div class=&#34;registration-actions&#34;&gt;
+&lt;a class=&#34;button primary&#34; href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfAdTQua_WWQEHO6Y0ROZPpCZ_idBbtF4ISWvIdSguEniaJTQ/viewform?usp=header&amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 Primary Registration Form
 &lt;/a&gt;
-&lt;a class="button secondary" href="https://v.wjx.cn/vm/rmuIuYV.aspx" target="_blank" rel="noopener"&gt;
+&lt;a class=&#34;button secondary&#34; href=&#34;https://v.wjx.cn/vm/rmuIuYV.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 Alternative Registration Form
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;p&gt;Please submit &lt;strong&gt;only one&lt;/strong&gt; registration form. Do not submit both forms.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Some parts of the alternative form interface may appear in Chinese, but responses may be submitted in English.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Speakers</title><link>https://tnsaa2026.github.io/speakers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/speakers/</guid><description>&lt;p&gt;Invited speakers will be announced soon.&lt;/p&gt;
-&lt;h2 id="invited-speakers"&gt;Invited Speakers&lt;/h2&gt;
-&lt;div class="person-grid"&gt;
-&lt;div class="person-card"&gt;
-&lt;div class="person-avatar placeholder"&gt;TBA&lt;/div&gt;
-&lt;h3&gt;To be announced&lt;/h3&gt;
-&lt;p&gt;Invited speakers will be listed here.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Some parts of the alternative form interface may appear in Chinese, but responses may be submitted in English.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Speakers</title>
+      <link>http://localhost:1313/speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/speakers/</guid>
+      <description>&lt;p&gt;Invited speakers will be announced soon.&lt;/p&gt;
+&lt;h2 id=&#34;invited-speakers&#34;&gt;Invited Speakers&lt;/h2&gt;
+&lt;div class=&#34;person-grid&#34;&gt;
+&lt;div class=&#34;person-card&#34;&gt;
+  &lt;div class=&#34;person-avatar placeholder&#34;&gt;TBA&lt;/div&gt;
+  &lt;h3&gt;To be announced&lt;/h3&gt;
+  &lt;p&gt;Invited speakers will be listed here.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;hr&gt;
-&lt;h2 id="contributed-presentations"&gt;Contributed Presentations&lt;/h2&gt;
+&lt;h2 id=&#34;contributed-presentations&#34;&gt;Contributed Presentations&lt;/h2&gt;
 &lt;p&gt;TNSAA 2026 will welcome contributed oral and poster presentations.&lt;/p&gt;
-&lt;p&gt;Submission details will be announced later.&lt;/p&gt;</description></item><item><title>Venue</title><link>https://tnsaa2026.github.io/venue/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tnsaa2026.github.io/venue/</guid><description>&lt;p&gt;TNSAA 2026 will be held at the RIKEN Center for Computational Science (R-CCS) in Kobe, Japan.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Kobe venue" loading="lazy" src="https://tnsaa2026.github.io/images/kobe-venue.webp"&gt;&lt;/p&gt;
-&lt;h2 id="riken-center-for-computational-science-r-ccs"&gt;RIKEN Center for Computational Science (R-CCS)&lt;/h2&gt;
+&lt;p&gt;Submission details will be announced later.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Venue</title>
+      <link>http://localhost:1313/venue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/venue/</guid>
+      <description>&lt;p&gt;TNSAA 2026 will be held at the RIKEN Center for Computational Science (R-CCS) in Kobe, Japan.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Kobe venue&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/kobe-venue.webp&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;riken-center-for-computational-science-r-ccs&#34;&gt;RIKEN Center for Computational Science (R-CCS)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;RIKEN Center for Computational Science (R-CCS)&lt;/strong&gt;
 7-1-26 Minatojima-minamimachi, Chuo-ku, Kobe, Hyogo 650-0047, Japan&lt;/p&gt;
 &lt;p&gt;R-CCS is one of Japan’s leading research centers for high-performance computing and computational science. It is located on Port Island in Kobe, a major international port city in western Japan.&lt;/p&gt;
-&lt;p&gt;For official access information, please refer to the RIKEN R-CCS directions page.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;For official access information, please refer to the RIKEN R-CCS directions page.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -44,16 +44,16 @@ Topics include, but are not limited to:
 
 ## Previous Workshops
 
-- 2012–2013: Taipei (DMRG Winter School)
-- 2013–2014: Taipei
-- 2014–2015: Beijing
-- 2015–2016: Okazaki
-- 2016–2017: Hsinchu
-- 2017–2018: Beijing
-- 2018–2019: Kobe
-- 2019–2020: Taipei
-- 2020–2021: Skipped due to COVID-19
-- 2021–2022: Online
-- 2022–2023: Shanghai
-- 2023–2024: Hong Kong
-- 2025–2026: Tainan
+* 2012–2013: Taipei (Dec. 2012) — DMRG Winter School
+* 2013–2014: Taipei (Dec. 2013)
+* 2014–2015: Beijing (Dec. 2014)
+* [2015–2016: Okazaki (Jan. 2016)](https://www.quantiki.org/conference/75th-okazaki-conference-tensor-network-states-algorithms-and-applications-2016)
+* [2016–2017: Hsinchu (Dec. 2016)](https://phys.ncts.ntu.edu.tw/en/act/actnews/Fourth-Workshop-on-Tensor-Network-States-Algorithms-and-Applications-43631294/home/introduction)
+* 2017–2018: Beijing (Jan. 2018)
+* [2018–2019: Kobe (Dec. 2018)](http://quattro.phys.sci.kobe-u.ac.jp/kobe_2018/TNSAA2018-19.html)
+* [2019–2020: Taipei (Dec. 2019)](https://tnsaa7.github.io/)
+* 2020–2021: Skipped due to COVID-19
+* [2021–2022: Online (Jan. 2022)](http://bussei.gs.niigata-u.ac.jp/~okunishi/tnsaa/)
+* 2022–2023: Shanghai (Aug. 2023)
+* [2023–2024: Hong Kong (Dec. 2024)](https://www.phy.cuhk.edu.hk/events/TNSAA2024/)
+* [2024–2025: Tainan (Dec. 2025)](https://phys.ncts.ntu.edu.tw/en/act/actnews/Tensor%20Network%20States%3A%20Algorithms%20and%20Applications%20%28TNSAA%29%202025-13215104/home)
