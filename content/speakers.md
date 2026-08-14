@@ -46,6 +46,12 @@ The list of invited speakers will be updated as confirmations are received.
 </div>
 
 <div class="person-card">
+  <div class="person-avatar placeholder">MQ</div>
+  <h3>Mingpu Qin</h3>
+  <p>Shanghai Jiao Tong University, China</p>
+</div>
+
+<div class="person-card">
   <div class="person-avatar placeholder">HS</div>
   <h3>Hidehiro Saito</h3>
   <p>The University of Tokyo, Japan</p>
