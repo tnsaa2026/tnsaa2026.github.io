@@ -52,6 +52,12 @@ The list of invited speakers will be updated as confirmations are received.
 </div>
 
 <div class="person-card">
+  <div class="person-avatar placeholder">RO</div>
+  <h3>Román Orús</h3>
+  <p>DIPC / Multiverse Computing, Spain</p>
+</div>
+
+<div class="person-card">
   <div class="person-avatar placeholder">MQ</div>
   <h3>Mingpu Qin</h3>
   <p>Shanghai Jiao Tong University, China</p>
