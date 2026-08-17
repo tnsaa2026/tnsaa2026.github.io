@@ -22,6 +22,12 @@ The list of invited speakers will be updated as confirmations are received.
 </div>
 
 <div class="person-card">
+  <div class="person-avatar placeholder">MD</div>
+  <h3>Markus Drescher</h3>
+  <p>Technical University of Munich (TUM), Germany</p>
+</div>
+
+<div class="person-card">
   <div class="person-avatar placeholder">KF</div>
   <h3>Kohei Fujikura</h3>
   <p>YITP, Kyoto University, Japan</p>
