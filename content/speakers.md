@@ -75,6 +75,12 @@ The list of invited speakers will be updated as confirmations are received.
   <p>Institute of Physics, Chinese Academy of Sciences, China</p>
 </div>
 
+<div class="person-card">
+  <div class="person-avatar placeholder">TX</div>
+  <h3>Tao Xiang</h3>
+  <p>Institute of Physics, Chinese Academy of Sciences, China</p>
+</div>
+
 </div>
 
 ---
