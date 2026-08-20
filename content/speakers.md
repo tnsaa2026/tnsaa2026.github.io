@@ -10,6 +10,12 @@ The list of invited speakers will be updated as confirmations are received.
 <div class="person-grid">
 
 <div class="person-card">
+  <div class="person-avatar placeholder">FA</div>
+  <h3>Fathiyya Izzatun Az Zahra</h3>
+  <p>Kanazawa University, Japan</p>
+</div>
+
+<div class="person-card">
   <div class="person-avatar placeholder">SC</div>
   <h3>Song Cheng</h3>
   <p>Beijing Institute of Mathematical Sciences and Applications, China</p>
