@@ -40,9 +40,21 @@ The list of invited speakers will be updated as confirmations are received.
 </div>
 
 <div class="person-card">
+  <div class="person-avatar placeholder">ZG</div>
+  <h3>Zheng-Cheng Gu</h3>
+  <p>The Chinese University of Hong Kong (CUHK), Hong Kong</p>
+</div>
+
+<div class="person-card">
   <div class="person-avatar placeholder">MH</div>
   <h3>Masahiro Hoshino</h3>
   <p>The University of Tokyo, Japan</p>
+</div>
+
+<div class="person-card">
+  <div class="person-avatar placeholder">YK</div>
+  <h3>Ying-Jer Kao</h3>
+  <p>National Taiwan University, Taiwan</p>
 </div>
 
 <div class="person-card">
