@@ -70,6 +70,12 @@ The list of invited speakers will be updated as confirmations are received.
 </div>
 
 <div class="person-card">
+  <div class="person-avatar placeholder">IM</div>
+  <h3>Ian McCulloch</h3>
+  <p>National Tsing Hua University, Taiwan</p>
+</div>
+
+<div class="person-card">
   <div class="person-avatar placeholder">RO</div>
   <h3>Román Orús</h3>
   <p>DIPC / Multiverse Computing, Spain</p>
