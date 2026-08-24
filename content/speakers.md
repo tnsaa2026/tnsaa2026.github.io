@@ -52,6 +52,12 @@ The list of invited speakers will be updated as confirmations are received.
 </div>
 
 <div class="person-card">
+  <div class="person-avatar placeholder">YH</div>
+  <h3>Yi-Ping Huang</h3>
+  <p>National Tsing Hua University, Taiwan</p>
+</div>
+
+<div class="person-card">
   <div class="person-avatar placeholder">YK</div>
   <h3>Ying-Jer Kao</h3>
   <p>National Taiwan University, Taiwan</p>
