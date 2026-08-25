@@ -58,6 +58,12 @@ The list of invited speakers will be updated as confirmations are received.
 </div>
 
 <div class="person-card">
+  <div class="person-avatar placeholder">AI</div>
+  <h3>Atsushi Iwaki</h3>
+  <p>SQAI, The University of Tokyo, Japan</p>
+</div>
+
+<div class="person-card">
   <div class="person-avatar placeholder">YK</div>
   <h3>Ying-Jer Kao</h3>
   <p>National Taiwan University, Taiwan</p>
