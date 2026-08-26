@@ -28,6 +28,12 @@ The list of invited speakers will be updated as confirmations are received.
 </div>
 
 <div class="person-card">
+  <div class="person-avatar placeholder">MC</div>
+  <h3>Mario Collura</h3>
+  <p>SISSA, Italy</p>
+</div>
+
+<div class="person-card">
   <div class="person-avatar placeholder">MD</div>
   <h3>Markus Drescher</h3>
   <p>Technical University of Munich (TUM), Germany</p>
