@@ -16,6 +16,12 @@ The list of invited speakers will be updated as confirmations are received.
 </div>
 
 <div class="person-card">
+  <div class="person-avatar placeholder">PC</div>
+  <h3>Pochung Chen</h3>
+  <p>National Tsing Hua University, Taiwan</p>
+</div>
+
+<div class="person-card">
   <div class="person-avatar placeholder">SC</div>
   <h3>Song Cheng</h3>
   <p>Beijing Institute of Mathematical Sciences and Applications, China</p>
