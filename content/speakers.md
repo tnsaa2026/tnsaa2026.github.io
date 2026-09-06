@@ -129,6 +129,12 @@ The list of invited speakers will be updated as confirmations are received.
   <p>Institute of Physics, Chinese Academy of Sciences, China</p>
 </div>
 
+<div class="person-card">
+  <div class="person-avatar placeholder">SY</div>
+  <h3>Shuo Yang</h3>
+  <p>Tsinghua University, China</p>
+</div>
+
 </div>
 
 ---
