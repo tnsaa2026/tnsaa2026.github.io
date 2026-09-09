@@ -106,6 +106,12 @@ The list of invited speakers will be updated as confirmations are received.
 </div>
 
 <div class="person-card">
+  <div class="person-avatar placeholder">AP</div>
+  <h3>Adrian Hoi Chun Po</h3>
+  <p>The Hong Kong University of Science and Technology (HKUST), Hong Kong</p>
+</div>
+
+<div class="person-card">
   <div class="person-avatar placeholder">MQ</div>
   <h3>Mingpu Qin</h3>
   <p>Shanghai Jiao Tong University, China</p>
