@@ -124,6 +124,12 @@ The list of invited speakers will be updated as confirmations are received.
 </div>
 
 <div class="person-card">
+  <div class="person-avatar placeholder">HW</div>
+  <h3>Hao-Xin Wang</h3>
+  <p>The Chinese University of Hong Kong (CUHK), Hong Kong</p>
+</div>
+
+<div class="person-card">
   <div class="person-avatar placeholder">YW</div>
   <h3>Yantao Wu</h3>
   <p>Institute of Physics, Chinese Academy of Sciences, China</p>
