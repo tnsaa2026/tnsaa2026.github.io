@@ -22,6 +22,12 @@ The list of invited speakers will be updated as confirmations are received.
 </div>
 
 <div class="person-card">
+  <div class="person-avatar placeholder">NC</div>
+  <h3>Natalia Chepiga</h3>
+  <p>University of Oxford, UK</p>
+</div>
+
+<div class="person-card">
   <div class="person-avatar placeholder">SC</div>
   <h3>Song Cheng</h3>
   <p>Beijing Institute of Mathematical Sciences and Applications, China</p>
