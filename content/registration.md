@@ -33,9 +33,11 @@ Please submit **only one** registration form. Do not submit both forms.
 
 ---
 
-## Banquet / Networking Reception
+## Poster Session / Networking Reception / Banquet
 
-A banquet / networking reception is scheduled for **December 16** during the workshop.
+The **poster session, networking reception, and workshop banquet** are scheduled for **December 16, 18:00–20:00**.
+
+The poster session will be held as part of the networking event, providing an informal setting for scientific discussion and interaction among participants.
 
 The workshop budget will cover the food at the reception, while participants are asked to pay a fee of **JPY 1,600** in advance to cover drinks.
 

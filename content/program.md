@@ -33,20 +33,22 @@ The schedule below is tentative and subject to change.
 
 ### December 16 (Wed)
 
-| Time        | Program                        |
-| ----------- | ------------------------------ |
-| 09:00–09:30 | Talk 7: TBA                    |
-| 09:30–10:00 | Talk 8: TBA                    |
-| 10:00–10:30 | Coffee Break                   |
-| 10:30–11:00 | Talk 9: TBA                    |
-| 11:00–11:30 | Talk 10: TBA                   |
-| 11:30–13:30 | Lunch Break                    |
-| 13:30–14:00 | Talk 11: TBA                   |
-| 14:00–14:30 | Talk 12: TBA                   |
-| 14:30–15:00 | Talk 13: TBA                   |
-| 15:00–15:30 | Coffee Break                   |
-| 15:30–17:00 | Poster Session                 |
-| 18:00–20:00 | Banquet / Networking Reception |
+| Time        | Program                                         |
+| ----------- | ----------------------------------------------- |
+| 09:00–09:30 | Talk 7: TBA                                     |
+| 09:30–10:00 | Talk 8: TBA                                     |
+| 10:00–10:30 | Coffee Break                                    |
+| 10:30–11:00 | Talk 9: TBA                                     |
+| 11:00–11:30 | Talk 10: TBA                                    |
+| 11:30–13:30 | Lunch Break                                     |
+| 13:30–14:00 | Talk 11: TBA                                    |
+| 14:00–14:30 | Talk 12: TBA                                    |
+| 14:30–15:00 | Talk 13: TBA                                    |
+| 15:00–15:30 | Coffee Break                                    |
+| 15:30–16:00 | Talk 14: TBA                                    |
+| 16:00–16:30 | Talk 15: TBA                                    |
+| 16:30–17:00 | Talk 16: TBA                                    |
+| 18:00–20:00 | Poster Session / Networking Reception / Banquet |
 
 ---
 
@@ -54,14 +56,14 @@ The schedule below is tentative and subject to change.
 
 | Time        | Program                              |
 | ----------- | ------------------------------------ |
-| 09:00–09:30 | Talk 14: TBA                         |
-| 09:30–10:00 | Talk 15: TBA                         |
+| 09:00–09:30 | Talk 17: TBA                         |
+| 09:30–10:00 | Talk 18: TBA                         |
 | 10:00–10:30 | Coffee Break                         |
-| 10:30–11:00 | Talk 16: TBA                         |
-| 11:00–11:30 | Talk 17: TBA                         |
+| 10:30–11:00 | Talk 19: TBA                         |
+| 11:00–11:30 | Talk 20: TBA                         |
 | 11:30–13:30 | Lunch Break                          |
-| 13:30–14:00 | Talk 18: TBA                         |
-| 14:00–14:30 | Talk 19: TBA                         |
+| 13:30–14:00 | Talk 21: TBA                         |
+| 14:00–14:30 | Talk 22: TBA                         |
 | 14:30–15:00 | Coffee Break                         |
 | 15:00–17:00 | Free Discussion / Collaboration Time |
 
@@ -71,17 +73,17 @@ The schedule below is tentative and subject to change.
 
 | Time        | Program      |
 | ----------- | ------------ |
-| 09:00–09:30 | Talk 20: TBA |
-| 09:30–10:00 | Talk 21: TBA |
+| 09:00–09:30 | Talk 23: TBA |
+| 09:30–10:00 | Talk 24: TBA |
 | 10:00–10:30 | Coffee Break |
-| 10:30–11:00 | Talk 22: TBA |
-| 11:00–11:30 | Talk 23: TBA |
+| 10:30–11:00 | Talk 25: TBA |
+| 11:00–11:30 | Talk 26: TBA |
 | 11:30–13:30 | Lunch Break  |
-| 13:30–14:00 | Talk 24: TBA |
-| 14:00–14:30 | Talk 25: TBA |
+| 13:30–14:00 | Talk 27: TBA |
+| 14:00–14:30 | Talk 28: TBA |
 | 14:30–15:00 | Coffee Break |
-| 15:00–15:30 | Talk 26: TBA |
-| 15:30–16:00 | Talk 27: TBA |
+| 15:00–15:30 | Talk 29: TBA |
+| 15:30–16:00 | Talk 30: TBA |
 | 16:00–16:15 | Closing      |
 
 ---
@@ -102,9 +104,11 @@ The final assignment of contributed oral and poster presentations will be decide
 
 ---
 
-## Poster Session
+## Poster Session / Networking Reception
 
-The poster session is planned for **December 16**.
+The poster session will be held on **December 16** as part of the networking reception.
+
+This format is intended to provide ample opportunities for informal discussion and interaction among participants.
 
 Details will be announced later.
 
@@ -112,6 +116,6 @@ Details will be announced later.
 
 ## Social Events
 
-The banquet / networking reception is scheduled for **December 16**.
+The poster session / networking reception and banquet are scheduled for **December 16**.
 
 Please see the [Registration page](/registration/) for banquet registration and payment details.
