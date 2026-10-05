@@ -58,6 +58,12 @@ The list of invited speakers will be updated as confirmations are received.
 </div>
 
 <div class="person-card">
+  <div class="person-avatar placeholder">JG</div>
+  <h3>Johnnie Gray</h3>
+  <p>California Institute of Technology (Caltech), USA</p>
+</div>
+
+<div class="person-card">
   <div class="person-avatar placeholder">ZG</div>
   <h3>Zheng-Cheng Gu</h3>
   <p>The Chinese University of Hong Kong (CUHK), Hong Kong</p>
