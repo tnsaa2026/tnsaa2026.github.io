@@ -11,96 +11,109 @@ The tentative program below is subject to change.
 
 ## Tentative Program
 
-The detailed program will be announced closer to the workshop dates.
-The schedule below is tentative and subject to change.
+> **Organizer working draft:** Speaker assignments below are provisional and are being reviewed by the organizing committee.  
+> \* Availability to be confirmed.  
+> † Attendance dates are tentative.
 
 ### December 15 (Tue)
 
-| Time        | Program             |
-| ----------- | ------------------- |
-| 12:30–13:00 | Registration        |
-| 13:00–13:15 | Opening             |
-| 13:15–13:45 | Talk 1: TBA         |
-| 13:45–14:15 | Talk 2: TBA         |
-| 14:15–14:45 | Talk 3: TBA         |
-| 14:45–15:15 | Coffee Break        |
-| 15:15–15:45 | Talk 4: TBA         |
-| 15:45–16:15 | Talk 5: TBA         |
-| 16:15–16:45 | Talk 6: TBA         |
+**Working theme:** Strongly correlated systems, quantum many-body physics, and renormalization methods
+
+| Time        | Program |
+| ----------- | ------- |
+| 12:30–13:00 | Registration |
+| 13:00–13:15 | Opening |
+| 13:15–13:45 | **Tao Xiang†** — Invited Talk |
+| 13:45–14:15 | **Yi-Ping Huang** — Invited Talk |
+| 14:15–14:45 | **Natalia Chepiga** — Invited Talk |
+| 14:45–15:15 | Coffee Break |
+| 15:15–15:45 | **Mingpu Qin** — Invited Talk |
+| 15:45–16:00 | **Shinichiro Akiyama** — Contributed Oral |
+| 16:00–16:15 | **Sayan Mukherjee** — Contributed Oral |
+| 16:15–16:45 | **Johnnie Gray** — Invited Talk |
 | 16:45–17:15 | Discussion / Buffer |
 
 ---
 
 ### December 16 (Wed)
 
-| Time        | Program                      |
-| ----------- | ---------------------------- |
-| 09:00–09:30 | Talk 7: TBA                  |
-| 09:30–10:00 | Talk 8: TBA                  |
-| 10:00–10:30 | Coffee Break                 |
-| 10:30–11:00 | Talk 9: TBA                  |
-| 11:00–11:30 | Talk 10: TBA                 |
-| 11:30–13:30 | Lunch Break                  |
-| 13:30–14:00 | Talk 11: TBA                 |
-| 14:00–14:30 | Talk 12: TBA                 |
-| 14:30–15:00 | Talk 13: TBA                 |
-| 15:00–15:30 | Coffee Break                 |
-| 15:30–16:00 | Talk 14: TBA                 |
-| 16:00–16:30 | Talk 15: TBA                 |
-| 16:30–17:00 | Talk 16: TBA                 |
-| 18:00–20:00 | Poster / Networking / Banquet |
+**Working theme:** Tensor-network algorithms, 2D methods, and renormalization
+
+| Time        | Program |
+| ----------- | ------- |
+| 09:00–09:30 | **Ian McCulloch** — Invited Talk |
+| 09:30–10:00 | **Pochung Chen\*** — Invited Talk |
+| 10:00–10:30 | Coffee Break |
+| 10:30–11:00 | **Fathiyya Izzatun Az Zahra** — Invited Talk |
+| 11:00–11:30 | **Kohei Fujikura** — Invited Talk |
+| 11:30–13:30 | Lunch Break |
+| 13:30–14:00 | **Wenyuan Liu** — Invited Talk |
+| 14:00–14:30 | **Yantao Wu** — Invited Talk |
+| 14:30–15:00 | **Jiahang Hu** — Invited Talk |
+| 15:00–15:30 | Coffee Break |
+| 15:30–15:45 | **Qi Yang** — Contributed Oral |
+| 15:45–16:00 | **Akshay Shankar** — Contributed Oral |
+| 16:00–16:30 | **Chia-Min Chung** — Invited Talk |
+| 16:30–17:00 | **Zheng-Cheng Gu\*** — Invited Talk |
+| 18:00–20:00 | **Poster / Networking / Banquet** |
 
 ---
 
 ### December 17 (Thu)
 
-| Time        | Program                              |
-| ----------- | ------------------------------------ |
-| 09:00–09:30 | Talk 17: TBA                         |
-| 09:30–10:00 | Talk 18: TBA                         |
-| 10:00–10:30 | Coffee Break                         |
-| 10:30–11:00 | Talk 19: TBA                         |
-| 11:00–11:30 | Talk 20: TBA                         |
-| 11:30–13:30 | Lunch Break                          |
-| 13:30–14:00 | Talk 21: TBA                         |
-| 14:00–14:30 | Talk 22: TBA                         |
-| 14:30–15:00 | Coffee Break                         |
+**Working theme:** Quantum information, circuits, magic, and classical simulability
+
+| Time        | Program |
+| ----------- | ------- |
+| 09:00–09:30 | **Donghoon Kim** — Invited Talk |
+| 09:30–10:00 | **Mario Collura\*** — Invited Talk |
+| 10:00–10:30 | Coffee Break |
+| 10:30–11:00 | **Song Cheng** — Invited Talk |
+| 11:00–11:15 | **Emanuele Tirrito** — Contributed Oral |
+| 11:15–11:30 | **Seung-Sup Lee** — Contributed Oral |
+| 11:30–13:30 | Lunch Break |
+| 13:30–14:00 | **Adrian Hoi Chun Po** — Invited Talk |
+| 14:00–14:30 | **Ying-Jer Kao\*** — Invited Talk |
+| 14:30–15:00 | Coffee Break |
 | 15:00–17:00 | Free Discussion / Collaboration Time |
 
 ---
 
 ### December 18 (Fri)
 
-| Time        | Program      |
-| ----------- | ------------ |
-| 09:00–09:30 | Talk 23: TBA |
-| 09:30–10:00 | Talk 24: TBA |
+**Working theme:** Many-body applications, dynamics, and tensor-network methods
+
+| Time        | Program |
+| ----------- | ------- |
+| 09:00–09:30 | **Román Orús\*** — Invited Talk |
+| 09:30–10:00 | **Markus Drescher** — Invited Talk |
 | 10:00–10:30 | Coffee Break |
-| 10:30–11:00 | Talk 25: TBA |
-| 11:00–11:30 | Talk 26: TBA |
-| 11:30–13:30 | Lunch Break  |
-| 13:30–14:00 | Talk 27: TBA |
-| 14:00–14:30 | Talk 28: TBA |
+| 10:30–11:00 | **Hidehiro Saito** — Invited Talk |
+| 11:00–11:30 | **Hao-Xin Wang** — Invited Talk |
+| 11:30–13:30 | Lunch Break |
+| 13:30–14:00 | **Shuo Yang†** — Invited Talk |
+| 14:00–14:15 | **Changkai Zhang** — Contributed Oral |
+| 14:15–14:30 | **Jesse Osborne** — Contributed Oral |
 | 14:30–15:00 | Coffee Break |
-| 15:00–15:30 | Talk 29: TBA |
-| 15:30–16:00 | Talk 30: TBA |
-| 16:00–16:15 | Closing      |
+| 15:00–15:30 | **Atsushi Iwaki** — Invited Talk |
+| 15:30–16:00 | **Masahiro Hoshino** — Invited Talk |
+| 16:00–16:15 | Closing |
 
 ---
 
 ## Invited Talks
 
-Invited talks will be scheduled throughout the workshop.
+Invited talks are scheduled for **30 minutes**, including discussion.
 
-Speakers and talk titles will be announced later.
+Talk titles will be added after they are collected from the speakers.
 
 ---
 
 ## Contributed Presentations
 
-TNSAA 2026 will include contributed oral and poster presentations.
+The working plan is to schedule **eight contributed oral presentations**, each for **15 minutes** (approximately 12 minutes for the presentation and 3 minutes for questions).
 
-The final assignment of contributed oral and poster presentations will be decided by the organizing committee.
+Other accepted contributed presentations will be presented in the poster session.
 
 ---
 
