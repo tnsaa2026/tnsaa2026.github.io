@@ -33,22 +33,22 @@ The schedule below is tentative and subject to change.
 
 ### December 16 (Wed)
 
-| Time        | Program                                         |
-| ----------- | ----------------------------------------------- |
-| 09:00–09:30 | Talk 7: TBA                                     |
-| 09:30–10:00 | Talk 8: TBA                                     |
-| 10:00–10:30 | Coffee Break                                    |
-| 10:30–11:00 | Talk 9: TBA                                     |
-| 11:00–11:30 | Talk 10: TBA                                    |
-| 11:30–13:30 | Lunch Break                                     |
-| 13:30–14:00 | Talk 11: TBA                                    |
-| 14:00–14:30 | Talk 12: TBA                                    |
-| 14:30–15:00 | Talk 13: TBA                                    |
-| 15:00–15:30 | Coffee Break                                    |
-| 15:30–16:00 | Talk 14: TBA                                    |
-| 16:00–16:30 | Talk 15: TBA                                    |
-| 16:30–17:00 | Talk 16: TBA                                    |
-| 18:00–20:00 | Poster Session / Networking Reception / Banquet |
+| Time        | Program                      |
+| ----------- | ---------------------------- |
+| 09:00–09:30 | Talk 7: TBA                  |
+| 09:30–10:00 | Talk 8: TBA                  |
+| 10:00–10:30 | Coffee Break                 |
+| 10:30–11:00 | Talk 9: TBA                  |
+| 11:00–11:30 | Talk 10: TBA                 |
+| 11:30–13:30 | Lunch Break                  |
+| 13:30–14:00 | Talk 11: TBA                 |
+| 14:00–14:30 | Talk 12: TBA                 |
+| 14:30–15:00 | Talk 13: TBA                 |
+| 15:00–15:30 | Coffee Break                 |
+| 15:30–16:00 | Talk 14: TBA                 |
+| 16:00–16:30 | Talk 15: TBA                 |
+| 16:30–17:00 | Talk 16: TBA                 |
+| 18:00–20:00 | Poster / Networking / Banquet |
 
 ---
 
@@ -104,9 +104,9 @@ The final assignment of contributed oral and poster presentations will be decide
 
 ---
 
-## Poster Session / Networking Reception
+## Poster Session / Networking Reception / Banquet
 
-The poster session will be held on **December 16** as part of the networking reception.
+The poster session, networking reception, and banquet will be held together on **December 16, 18:00–20:00**.
 
 This format is intended to provide ample opportunities for informal discussion and interaction among participants.
 
@@ -116,6 +116,6 @@ Details will be announced later.
 
 ## Social Events
 
-The poster session / networking reception and banquet are scheduled for **December 16**.
+The poster session / networking reception / banquet is scheduled for **December 16, 18:00–20:00**.
 
 Please see the [Registration page](/registration/) for banquet registration and payment details.
