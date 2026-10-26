@@ -30,21 +30,21 @@ The tentative program below is subject to change.
 | 15:15–15:45 | **Mingpu Qin** — Invited Talk |
 | 15:45–16:00 | **Shinichiro Akiyama** — Contributed Oral |
 | 16:00–16:15 | **Sayan Mukherjee** — Contributed Oral |
-| 16:15–16:45 | **Johnnie Gray** — Invited Talk |
+| 16:15–16:45 | **Fathiyya Izzatun Az Zahra** — Invited Talk |
 | 16:45–17:15 | Discussion / Buffer |
 
 ---
 
 ### December 16 (Wed)
 
-**Working theme:** Tensor-network algorithms, 2D methods, and renormalization
+**Working theme:** Tensor-network algorithms, contraction, and 2D methods
 
 | Time        | Program |
 | ----------- | ------- |
 | 09:00–09:30 | **Ian McCulloch** — Invited Talk |
 | 09:30–10:00 | **Pochung Chen\*** — Invited Talk |
 | 10:00–10:30 | Coffee Break |
-| 10:30–11:00 | **Fathiyya Izzatun Az Zahra** — Invited Talk |
+| 10:30–11:00 | **Johnnie Gray** — Invited Talk |
 | 11:00–11:30 | **Kohei Fujikura** — Invited Talk |
 | 11:30–13:30 | Lunch Break |
 | 13:30–14:00 | **Wenyuan Liu** — Invited Talk |
@@ -72,8 +72,8 @@ The tentative program below is subject to change.
 | 11:00–11:15 | **Emanuele Tirrito** — Contributed Oral |
 | 11:15–11:30 | **Seung-Sup Lee** — Contributed Oral |
 | 11:30–13:30 | Lunch Break |
-| 13:30–14:00 | **Adrian Hoi Chun Po** — Invited Talk |
-| 14:00–14:30 | **Ying-Jer Kao\*** — Invited Talk |
+| 13:30–14:00 | **Masahiro Hoshino** — Invited Talk |
+| 14:00–14:30 | **Román Orús\*** — Invited Talk |
 | 14:30–15:00 | Coffee Break |
 | 15:00–17:00 | Free Discussion / Collaboration Time |
 
@@ -81,22 +81,22 @@ The tentative program below is subject to change.
 
 ### December 18 (Fri)
 
-**Working theme:** Many-body applications, dynamics, and tensor-network methods
+**Working theme:** Many-body applications, finite-temperature methods, topology, and dynamics
 
 | Time        | Program |
 | ----------- | ------- |
-| 09:00–09:30 | **Román Orús\*** — Invited Talk |
+| 09:00–09:30 | **Ying-Jer Kao\*** — Invited Talk |
 | 09:30–10:00 | **Markus Drescher** — Invited Talk |
 | 10:00–10:30 | Coffee Break |
 | 10:30–11:00 | **Hidehiro Saito** — Invited Talk |
 | 11:00–11:30 | **Hao-Xin Wang** — Invited Talk |
 | 11:30–13:30 | Lunch Break |
-| 13:30–14:00 | **Shuo Yang†** — Invited Talk |
+| 13:30–14:00 | **Atsushi Iwaki** — Invited Talk |
 | 14:00–14:15 | **Changkai Zhang** — Contributed Oral |
 | 14:15–14:30 | **Jesse Osborne** — Contributed Oral |
 | 14:30–15:00 | Coffee Break |
-| 15:00–15:30 | **Atsushi Iwaki** — Invited Talk |
-| 15:30–16:00 | **Masahiro Hoshino** — Invited Talk |
+| 15:00–15:30 | **Shuo Yang†** — Invited Talk |
+| 15:30–16:00 | **Adrian Hoi Chun Po** — Invited Talk |
 | 16:00–16:15 | Closing |
 
 ---
