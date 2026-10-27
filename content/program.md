@@ -69,31 +69,50 @@ The tentative program below is subject to change.
 
 #### Poster Session (18:00–20:00)
 
-*Poster numbers are provisional.*
+*Poster numbers and thematic grouping are provisional.*
+
+##### A. Tensor-network algorithms, optimization & machine learning
 
 | No. | Presenter / Affiliation | Title |
 | --- | --- | --- |
 | P01 | **Lukas Wittmann**<br>Technical University of Munich, Pollmann group | Quasiparticle Excitations in Two-Dimensional Isometric Tensor Network States |
-| P02 | **Cyrus Clabeaux**<br>Stony Brook University | Machine Learning Inference of the Konoplya-Rezzolla-Zhidenko Parameterization for Beyond-Kerr Spacetime from the Black Hole Photon Ring |
-| P03 | **Takaaki Kuwahara**<br>The University of Tokyo | Tensor network representation of field theories based on machine-learning-assisted quadrature |
-| P04 | **Yu-Chin Tzeng**<br>National Yang Ming Chiao Tung University | Reconstructing the Entanglement Hamiltonian of a Haldane Spin Ladder |
-| P05 | **Yuguo Shao**<br>Tsinghua University | A Resource Theory for Clifford-Augmented Tensor Networks |
-| P06 | **Ryo Minakawa**<br>Graduate School of Informatics, Kyoto University | Probability Conservation in the Time Evolution of Classical Many-Body Systems |
-| P07 | **Shoichiro Kado**<br>Graduate School of Informatics, Kyoto University | Clifford-Augmented Matrix Product States for Classical Spin Systems |
-| P08 | **Yixuan Huang**<br>RIKEN | Quantum Fisher information near local quantum critical points in a one-dimensional Kondo insulator model |
-| P09 | **Hao-Kai Zhang**<br>Institute of Physics, Chinese Academy of Sciences | Absence of poor local minima in matrix product states |
-| P10 | **Qizhi Zhu**<br>ISSP, The University of Tokyo | The critical properties of the pair contact process with diffusion model from the quasi-stationary distribution |
-| P11 | **Jongmin Lee**<br>Korea Advanced Institute of Science and Technology | Clifford-Augmented DMRG Study of the Kennedy–Tasaki Duality in the Spin-1 Haldane Chain |
-| P12 | **Ryoma Watanabe**<br>ISSP, The University of Tokyo | The application of Gu-Wen ratios to the specific stochastic geometrical statistical mechanical model |
-| P13 | **Masahiro O. Takahashi**<br>RIKEN Center for Computational Science (R-CCS) | Digital quantum simulation of non-Hermitian many-body quench dynamics |
-| P14 | **Yuto Sugimoto**<br>Tohoku University | Tensor Networks for Lattice Gauge Theories in the Lagrangian Formalism |
+| P02 | **Takaaki Kuwahara**<br>The University of Tokyo | Tensor network representation of field theories based on machine-learning-assisted quadrature |
+| P03 | **Hao-Kai Zhang**<br>Institute of Physics, Chinese Academy of Sciences | Absence of poor local minima in matrix product states |
+| P04 | **Vijay Kumar Reddy P**<br>Multiverse Computing | Physicalizing Postselected Tensor-Network Classifiers: Decision-Preserving CPTP Completion and Copy Resources |
+| P05 | **Ryo Sakai**<br>JIJ Inc. | Low-entanglement tensor-network reservoir computing with memory provided by width |
+| P06 | **Wei-Lin Tu**<br>Keio University | TBA |
+
+##### B. Quantum information, Clifford methods, symmetry & scars
+
+| No. | Presenter / Affiliation | Title |
+| --- | --- | --- |
+| P07 | **Yuguo Shao**<br>Tsinghua University | A Resource Theory for Clifford-Augmented Tensor Networks |
+| P08 | **Shoichiro Kado**<br>Graduate School of Informatics, Kyoto University | Clifford-Augmented Matrix Product States for Classical Spin Systems |
+| P09 | **Jongmin Lee**<br>Korea Advanced Institute of Science and Technology | Clifford-Augmented DMRG Study of the Kennedy–Tasaki Duality in the Spin-1 Haldane Chain |
+| P10 | **Minsoo Kim**<br>KAIST | Disentangling Haldane Phase by Generalized Clifford Circuits |
+| P11 | **Fabrizio Giovanni Oliviero**<br>National Yang Ming Chiao Tung University, Taiwan | The interplay of symmetry defects and duality in quantum many-body scars |
+
+##### C. Strongly correlated systems & quantum dynamics
+
+| No. | Presenter / Affiliation | Title |
+| --- | --- | --- |
+| P12 | **Yu-Chin Tzeng**<br>National Yang Ming Chiao Tung University | Reconstructing the Entanglement Hamiltonian of a Haldane Spin Ladder |
+| P13 | **Yixuan Huang**<br>RIKEN | Quantum Fisher information near local quantum critical points in a one-dimensional Kondo insulator model |
+| P14 | **Masahiro O. Takahashi**<br>RIKEN Center for Computational Science (R-CCS) | Digital quantum simulation of non-Hermitian many-body quench dynamics |
 | P15 | **Jia-lin Chen**<br>Institute of Physics, Chinese Academy of Sciences | Classical simulation of long-range quantum dynamics in two dimensions |
-| P16 | **Minsoo Kim**<br>KAIST | Disentangling Haldane Phase by Generalized Clifford Circuits |
-| P17 | **Fengfeng Song**<br>ISSP, The University of Tokyo | Superfluid Dome in the Spatially Modulated 2D XY Model |
-| P18 | **Vijay Kumar Reddy P**<br>Multiverse Computing | Physicalizing Postselected Tensor-Network Classifiers: Decision-Preserving CPTP Completion and Copy Resources |
-| P19 | **Taisei Matsuo**<br>Department of Physics, Institute of Science Tokyo | Tensor Renormalization Group Analysis of Random Tensor Network on Various Lattice |
-| P20 | **Mizokami Yuudai**<br>Kyushu University | Effects of bond-selective truncation on the two-stream instability in quantized tensor train simulations |
-| P21 | **Ryo Sakai**<br>JIJ Inc. | Low-entanglement tensor-network reservoir computing with memory provided by width |
+| P16 | **Fengfeng Song**<br>ISSP, The University of Tokyo | Superfluid Dome in the Spatially Modulated 2D XY Model |
+
+##### D. Statistical mechanics, field theory & renormalization
+
+| No. | Presenter / Affiliation | Title |
+| --- | --- | --- |
+| P17 | **Cyrus Clabeaux**<br>Stony Brook University | Machine Learning Inference of the Konoplya-Rezzolla-Zhidenko Parameterization for Beyond-Kerr Spacetime from the Black Hole Photon Ring |
+| P18 | **Ryo Minakawa**<br>Graduate School of Informatics, Kyoto University | Probability Conservation in the Time Evolution of Classical Many-Body Systems |
+| P19 | **Qizhi Zhu**<br>ISSP, The University of Tokyo | The critical properties of the pair contact process with diffusion model from the quasi-stationary distribution |
+| P20 | **Ryoma Watanabe**<br>ISSP, The University of Tokyo | The application of Gu-Wen ratios to the specific stochastic geometrical statistical mechanical model |
+| P21 | **Yuto Sugimoto**<br>Tohoku University | Tensor Networks for Lattice Gauge Theories in the Lagrangian Formalism |
+| P22 | **Taisei Matsuo**<br>Department of Physics, Institute of Science Tokyo | Tensor Renormalization Group Analysis of Random Tensor Network on Various Lattice |
+| P23 | **Mizokami Yuudai**<br>Kyushu University | Effects of bond-selective truncation on the two-stream instability in quantized tensor train simulations |
 
 ---
 
