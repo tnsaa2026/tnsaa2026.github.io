@@ -21,7 +21,6 @@ The tentative program below is subject to change.
 
 ### December 15 (Tue)
 
-**Working theme:** Strongly correlated systems, quantum many-body physics, and renormalization methods
 
 | Time | Speaker / Affiliation | Title |
 | --- | --- | --- |
@@ -43,7 +42,6 @@ The tentative program below is subject to change.
 
 ### December 16 (Wed)
 
-**Working theme:** Tensor-network algorithms, contraction, and 2D methods
 
 | Time | Speaker / Affiliation | Title |
 | --- | --- | --- |
@@ -117,7 +115,6 @@ The tentative program below is subject to change.
 
 ### December 17 (Thu)
 
-**Working theme:** Quantum information, circuits, topology, and classical simulability
 
 | Time | Speaker / Affiliation | Title |
 | --- | --- | --- |
@@ -143,7 +140,6 @@ The tentative program below is subject to change.
 
 ### December 18 (Fri)
 
-**Working theme:** Many-body applications, finite-temperature methods, topology, and dynamics
 
 | Time | Speaker / Affiliation | Title |
 | --- | --- | --- |
