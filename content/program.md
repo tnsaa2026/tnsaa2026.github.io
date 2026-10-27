@@ -49,22 +49,21 @@ The tentative program below is subject to change.
 | --- | --- | --- |
 |  | **Session 3 — Chair: TBA** | |
 | 09:00–09:30 | **Ian McCulloch**<br>National Tsing Hua University | TBA |
-| 09:30–10:00 | **Pochung Chen**<br>National Tsing Hua University, Taiwan | TBA |
+| 09:30–10:00 | **Johnnie Gray**<br>Caltech | TBA |
 | 10:00–10:30 | Coffee Break | |
 |  | **Session 4 — Chair: TBA** | |
-| 10:30–11:00 | **Johnnie Gray**<br>Caltech | TBA |
-| 11:00–11:30 | **Kohei Fujikura**<br>YITP | TBA |
+| 10:30–11:00 | **Kohei Fujikura**<br>YITP | TBA |
+| 11:00–11:30 | **Chia-Min Chung**<br>National Yang Ming Chiao Tung University | TBA |
 | 11:30–13:30 | Lunch Break | |
 |  | **Session 5 — Chair: TBA** | |
 | 13:30–14:00 | **Wenyuan Liu**<br>Zhejiang University | TBA |
 | 14:00–14:30 | **Yantao Wu**<br>Institute of Physics, Chinese Academy of Sciences | TBA |
-| 14:30–15:00 | **Jiahang Hu**<br>Institute of Physics, Chinese Academy of Sciences | Excitation-Tailored CTMRG: Toward Reliable Excitation Spectra |
-| 15:00–15:30 | Coffee Break | |
+| 14:30–15:00 | Coffee Break | |
 |  | **Session 6 — Chair: TBA** | |
+| 15:00–15:30 | **Jiahang Hu**<br>Institute of Physics, Chinese Academy of Sciences | Excitation-Tailored CTMRG: Toward Reliable Excitation Spectra |
 | 15:30–15:45 | **Qi Yang**<br>University of Amsterdam | Simulating Long-Range Quantum Chains Without Cutting Them Short |
 | 15:45–16:00 | **Akshay Shankar**<br>Ghent University | Finite-Element Matrix Product States for Continuum Models in One Dimension |
-| 16:00–16:30 | **Chia-Min Chung**<br>National Yang Ming Chiao Tung University | TBA |
-| 16:30–17:00 | **Zheng-Cheng Gu**<br>The Chinese University of Hong Kong (CUHK), Hong Kong | TBA |
+| 16:00–18:00 | Break / Poster Setup | |
 | 18:00–20:00 | **Poster / Networking / Banquet** | |
 
 #### Poster Session (18:00–20:00)
@@ -118,7 +117,7 @@ The tentative program below is subject to change.
 
 ### December 17 (Thu)
 
-**Working theme:** Quantum information, circuits, magic, and classical simulability
+**Working theme:** Quantum information, circuits, topology, and classical simulability
 
 | Time | Speaker / Affiliation | Title |
 | --- | --- | --- |
@@ -132,10 +131,13 @@ The tentative program below is subject to change.
 | 11:15–11:30 | **Seung-Sup Lee**<br>Seoul National University | Coherent-disorder-driven complexity transitions in a quantum-advantage architecture |
 | 11:30–13:30 | Lunch Break | |
 |  | **Session 9 — Chair: TBA** | |
-| 13:30–14:00 | **Masahiro Hoshino**<br>Department of Physics, The University of Tokyo | TBA |
-| 14:00–14:30 | **Román Orús**<br>Donostia International Physics Center (DIPC) / Multiverse Computing, Spain | TBA |
+| 13:30–14:00 | **Pochung Chen**<br>National Tsing Hua University, Taiwan | TBA |
+| 14:00–14:30 | **Zheng-Cheng Gu**<br>The Chinese University of Hong Kong (CUHK), Hong Kong | TBA |
 | 14:30–15:00 | Coffee Break | |
-| 15:00–17:00 | Free Discussion / Collaboration Time | |
+|  | **Session 10 — Chair: TBA** | |
+| 15:00–15:30 | **Masahiro Hoshino**<br>Department of Physics, The University of Tokyo | TBA |
+| 15:30–16:00 | **Román Orús**<br>Donostia International Physics Center (DIPC) / Multiverse Computing, Spain | TBA |
+| 16:00–17:00 | Free Discussion / Collaboration Time | |
 
 ---
 
@@ -145,22 +147,22 @@ The tentative program below is subject to change.
 
 | Time | Speaker / Affiliation | Title |
 | --- | --- | --- |
-|  | **Session 10 — Chair: TBA** | |
+|  | **Session 11 — Chair: TBA** | |
 | 09:00–09:30 | **Ying-Jer Kao**<br>National Taiwan University, Taiwan | TBA |
 | 09:30–10:00 | **Markus Drescher**<br>Okinawa Institute of Science and Technology | TBA |
 | 10:00–10:30 | Coffee Break | |
-|  | **Session 11 — Chair: TBA** | |
+|  | **Session 12 — Chair: TBA** | |
 | 10:30–11:00 | **Hidehiro Saito**<br>The University of Tokyo | TBA |
 | 11:00–11:30 | **Hao-Xin Wang**<br>Chinese University of Hong Kong, Department of Physics | TBA |
 | 11:30–13:30 | Lunch Break | |
-|  | **Session 12 — Chair: TBA** | |
+|  | **Session 13 — Chair: TBA** | |
 | 13:30–14:00 | **Atsushi Iwaki**<br>University of Tokyo | TBA |
 | 14:00–14:15 | **Changkai Zhang**<br>The University of Hong Kong | From Thermal Tensor Networks to AI-Assisted Analysis of the Hubbard Model |
 | 14:15–14:30 | **Jesse Osborne**<br>Max Planck Institute of Quantum Optics | Matrix product state ansatz for scattering and bound state formation |
 | 14:30–15:00 | Coffee Break | |
-|  | **Session 13 — Chair: TBA** | |
+|  | **Session 14 — Chair: TBA** | |
 | 15:00–15:30 | **Shuo Yang**<br>Tsinghua University | TBA |
-| 15:30–16:00 | **Adrian Hoi Chun Po**<br>Hong Kong University of Science and Technology | TBA |
+| 15:30–16:00 | **Adrian Hoi Chun Po**<br>The Hong Kong University of Science and Technology (HKUST), Hong Kong | TBA |
 | 16:00–16:15 | Closing | |
 
 ---
