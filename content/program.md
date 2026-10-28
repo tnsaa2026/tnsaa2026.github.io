@@ -130,7 +130,7 @@ The tentative program below is subject to change.
 |  | **Session 9 — Chair: TBA** | |
 | 13:30–14:00 | **Pochung Chen**<br>National Tsing Hua University, Taiwan | TBA |
 | 14:00–14:30 | **Zheng-Cheng Gu**<br>The Chinese University of Hong Kong (CUHK), Hong Kong | TBA |
-| 14:30–16:00 | Coffee Break / Facility Tour (e.g., Fugaku) | |
+| 14:30–16:00 | Coffee Break / Optional Facility Tour (e.g., Fugaku) | |
 |  | **Session 10 — Chair: TBA** | |
 | 16:00–16:30 | **Masahiro Hoshino**<br>Department of Physics, The University of Tokyo | TBA |
 | 16:30–17:00 | **Román Orús**<br>Donostia International Physics Center (DIPC) / Multiverse Computing, Spain | TBA |
