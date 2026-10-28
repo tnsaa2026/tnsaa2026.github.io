@@ -60,7 +60,7 @@ The tentative program below is subject to change.
 | 15:00–15:30 | **Jiahang Hu**<br>Institute of Physics, Chinese Academy of Sciences | Excitation-Tailored CTMRG: Toward Reliable Excitation Spectra |
 | 15:30–15:45 | **Qi Yang**<br>University of Amsterdam | Simulating Long-Range Quantum Chains Without Cutting Them Short |
 | 15:45–16:00 | **Akshay Shankar**<br>Ghent University | Finite-Element Matrix Product States for Continuum Models in One Dimension |
-| 16:00–18:00 | Break / Poster Setup | |
+| 16:00–18:00 | Break / Transfer to Kobe Portopia Hotel / Poster Setup | |
 | 18:00–20:00 | **Poster / Networking / Banquet** | |
 
 #### Poster Session (18:00–20:00)
