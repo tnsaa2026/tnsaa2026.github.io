@@ -36,6 +36,7 @@ The tentative program below is subject to change.
 | 15:45–16:00 | **Shinichiro Akiyama**<br>University of Tsukuba | Phase diagram of the single-flavor Gross–Neveu–Wilson model from the Grassmann corner transfer matrix renormalization group |
 | 16:00–16:15 | **Sayan Mukherjee**<br>The University of Tokyo | When Does HOTRG Close? A Voltage-Graph-Lift Approach |
 | 16:15–16:45 | **Fathiyya Izzatun Az Zahra**<br>YITP | TBA |
+| 16:45–17:00 | **Chao Li**<br>RIKEN Center for Advanced Intelligence Project (AIP) | TBA |
 
 ---
 
