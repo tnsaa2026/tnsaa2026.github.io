@@ -78,6 +78,8 @@ The tentative program below is subject to change.
 | A04 | **Mizokami Yuudai**<br>Kyushu University | Effects of bond-selective truncation on the two-stream instability in quantized tensor train simulations |
 | A05 | **Ryo Sakai**<br>JIJ Inc. | Low-entanglement tensor-network reservoir computing with memory provided by width |
 | A06 | **Cyrus Clabeaux**<br>Stony Brook University | Machine Learning Inference of the Konoplya-Rezzolla-Zhidenko Parameterization for Beyond-Kerr Spacetime from the Black Hole Photon Ring |
+| A07 | **Changkai Zhang**<br>The University of Hong Kong | Enhanced Exponential Tensor Renormalization Group for the Finite-Temperature Hubbard Model |
+| A08 | **Changkai Zhang**<br>The University of Hong Kong | Alice, Nicole, and Yuzuha: Open-Source Infrastructure for Symmetry-Aware Tensor Networks |
 
 ##### B. Quantum information, Clifford methods & quantum algorithms
 
