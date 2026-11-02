@@ -36,7 +36,7 @@ The tentative program below is subject to change.
 | 15:45–16:00 | **Shinichiro Akiyama**<br>University of Tsukuba | Phase diagram of the single-flavor Gross–Neveu–Wilson model from the Grassmann corner transfer matrix renormalization group |
 | 16:00–16:15 | **Sayan Mukherjee**<br>The University of Tokyo | When Does HOTRG Close? A Voltage-Graph-Lift Approach |
 | 16:15–16:45 | **Fathiyya Izzatun Az Zahra**<br>YITP | TBA |
-| 16:45–17:00 | **Chao Li**<br>RIKEN Center for Advanced Intelligence Project (AIP) | TBA |
+| 16:45–17:00 | **Chao Li**<br>RIKEN Center for Advanced Intelligence Project (AIP) | Tractable Probabilistic Modeling with Matrix Product Operator (MPO) Born Machines |
 
 ---
 
@@ -51,7 +51,7 @@ The tentative program below is subject to change.
 | 10:00–10:30 | Coffee Break | |
 |  | **Session 4 — Chair: TBA** | |
 | 10:30–11:00 | **Kohei Fujikura**<br>YITP | TBA |
-| 11:00–11:30 | **Chia-Min Chung**<br>National Yang Ming Chiao Tung University | TBA |
+| 11:00–11:30 | **Chia-Min Chung**<br>National Yang Ming Chiao Tung University | Exchange-Symmetry-Resolved Quantics Tensor Trains for a few identical particles |
 | 11:30–13:30 | Lunch Break | |
 |  | **Session 5 — Chair: TBA** | |
 | 13:30–14:00 | **Wenyuan Liu**<br>Zhejiang University | TBA |
@@ -130,7 +130,7 @@ The tentative program below is subject to change.
 | 11:15–11:30 | **Seung-Sup Lee**<br>Seoul National University | Coherent-disorder-driven complexity transitions in a quantum-advantage architecture |
 | 11:30–13:30 | Lunch Break | |
 |  | **Session 9 — Chair: TBA** | |
-| 13:30–14:00 | **Pochung Chen**<br>National Tsing Hua University, Taiwan | TBA |
+| 13:30–14:00 | **Pochung Chen**<br>National Tsing Hua University, Taiwan | Extracting conformal data from finite-size tensor-network flow in critical two-dimensional classical models |
 | 14:00–14:30 | **Zheng-Cheng Gu**<br>The Chinese University of Hong Kong (CUHK), Hong Kong | TBA |
 | 14:30–16:00 | Coffee Break / Optional Facility Tour (e.g., Fugaku) | |
 |  | **Session 10 — Chair: TBA** | |
@@ -145,12 +145,12 @@ The tentative program below is subject to change.
 | Time | Speaker / Affiliation | Title |
 | --- | --- | --- |
 |  | **Session 11 — Chair: TBA** | |
-| 09:00–09:30 | **Ying-Jer Kao**<br>National Taiwan University, Taiwan | TBA |
-| 09:30–10:00 | **Markus Drescher**<br>Okinawa Institute of Science and Technology | TBA |
+| 09:00–09:30 | **Ying-Jer Kao**<br>National Taiwan University, Taiwan | Improved Ising Meson Spectroscopy Simulation on a Noisy Digital Quantum Device |
+| 09:30–10:00 | **Markus Drescher**<br>Okinawa Institute of Science and Technology | Dynamical signatures of the triangular-lattice Heisenberg antiferromagnet |
 | 10:00–10:30 | Coffee Break | |
 |  | **Session 12 — Chair: TBA** | |
 | 10:30–11:00 | **Hidehiro Saito**<br>The University of Tokyo | TBA |
-| 11:00–11:30 | **Hao-Xin Wang**<br>Chinese University of Hong Kong, Department of Physics | TBA |
+| 11:00–11:30 | **Hao-Xin Wang**<br>Chinese University of Hong Kong, Department of Physics | Particle-hole asymmetry and a fluctuating pair-density-wave state in a lightly doped Mott insulator on the square lattice |
 | 11:30–13:30 | Lunch Break | |
 |  | **Session 13 — Chair: TBA** | |
 | 13:30–14:00 | **Atsushi Iwaki**<br>University of Tokyo | TBA |
@@ -158,7 +158,7 @@ The tentative program below is subject to change.
 | 14:15–14:30 | **Jesse Osborne**<br>Max Planck Institute of Quantum Optics | Matrix product state ansatz for scattering and bound state formation |
 | 14:30–15:00 | Coffee Break | |
 |  | **Session 14 — Chair: TBA** | |
-| 15:00–15:30 | **Shuo Yang**<br>Tsinghua University | TBA |
+| 15:00–15:30 | **Shuo Yang**<br>Tsinghua University | Tensor network characterization and mitigation of readout errors |
 | 15:30–16:00 | **Adrian Hoi Chun Po**<br>The Hong Kong University of Science and Technology (HKUST), Hong Kong | TBA |
 | 16:00–16:15 | Closing | |
 
