@@ -5,7 +5,7 @@ draft: false
 
 ## Invited Speakers
 
-The list of invited speakers will be updated as confirmations are received.
+The current invited speakers for TNSAA 2026 are listed below.
 
 <div class="person-grid">
 
@@ -166,6 +166,6 @@ The list of invited speakers will be updated as confirmations are received.
 
 ## Contributed Presentations
 
-TNSAA 2026 welcomes contributed oral and poster presentations.
+Contributed oral and poster presentation assignments are now available on the [Program page](/program/).
 
-For submission details and important dates, please see the [Call for Contributions](/call-for-papers/).
+The regular contribution submission period has closed.
