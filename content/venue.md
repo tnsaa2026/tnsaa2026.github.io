@@ -57,6 +57,14 @@ Please check the latest schedules and routes before traveling.
 
 ---
 
+# Poster Session / Networking Reception / Banquet
+
+The poster session, networking reception, and banquet will be held on **December 16, 18:00–20:00** at **Kobe Portopia Hotel, Main Building B1F, Ikuta**.
+
+The banquet venue is separate from the main workshop venue at RIKEN R-CCS. Please see the [Program page](/program/) for the schedule.
+
+---
+
 # Accommodation
 
 Participants are recommended to stay near **Sannomiya** or nearby central Kobe areas, as these areas provide convenient access to the Port Liner and to restaurants, shops, and transportation.
