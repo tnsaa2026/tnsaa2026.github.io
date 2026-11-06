@@ -82,7 +82,7 @@ draft: false
   <div class="person-card">
     <div class="person-avatar placeholder">TX</div>
     <h3>Tao Xiang</h3>
-    <p>Beijing Academy of Quantum Information Sciences (BAQIS)</p>
+    <p>Institute of Physics, Chinese Academy of Sciences</p>
   </div>
 
 </div>
