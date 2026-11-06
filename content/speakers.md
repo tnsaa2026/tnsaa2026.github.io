@@ -12,7 +12,7 @@ The list of invited speakers will be updated as confirmations are received.
 <div class="person-card">
   <div class="person-avatar placeholder">FA</div>
   <h3>Fathiyya Izzatun Az Zahra</h3>
-  <p>Kanazawa University, Japan</p>
+  <p>Yukawa Institute for Theoretical Physics (YITP), Kyoto University, Japan</p>
 </div>
 
 <div class="person-card">
@@ -48,7 +48,7 @@ The list of invited speakers will be updated as confirmations are received.
 <div class="person-card">
   <div class="person-avatar placeholder">MD</div>
   <h3>Markus Drescher</h3>
-  <p>Technical University of Munich (TUM), Germany</p>
+  <p>Okinawa Institute of Science and Technology (OIST), Japan</p>
 </div>
 
 <div class="person-card">
@@ -117,11 +117,6 @@ The list of invited speakers will be updated as confirmations are received.
   <p>National Tsing Hua University, Taiwan</p>
 </div>
 
-<div class="person-card">
-  <div class="person-avatar placeholder">RO</div>
-  <h3>Román Orús</h3>
-  <p>DIPC / Multiverse Computing, Spain</p>
-</div>
 
 <div class="person-card">
   <div class="person-avatar placeholder">AP</div>
