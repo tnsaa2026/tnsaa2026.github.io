@@ -9,4 +9,4 @@ title: "TNSAA 2026"
 
 TNSAA 2026 is an international workshop on tensor network states, algorithms, and applications.
 
-More information will be announced soon.
+The [provisional program](/program/) and [invited speaker list](/speakers/) are now available. General registration remains open until **November 15, 2026**.
