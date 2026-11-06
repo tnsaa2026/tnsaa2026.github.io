@@ -69,7 +69,7 @@ draft: false
 
   <div class="person-card">
     <div class="person-avatar placeholder">ZG</div>
-    <h3>Zhengcheng Gu</h3>
+    <h3>Zheng-Cheng Gu</h3>
     <p>The Chinese University of Hong Kong (CUHK)</p>
   </div>
 
