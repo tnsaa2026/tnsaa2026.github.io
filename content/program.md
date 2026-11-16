@@ -58,8 +58,6 @@ The program below is provisional and subject to change.
 
 #### Poster Session (18:00–20:00)
 
-*Poster numbers and thematic grouping are provisional.*
-
 ##### A. Tensor-network methods, optimization & machine learning
 
 | No. | Presenter / Affiliation | Title |
