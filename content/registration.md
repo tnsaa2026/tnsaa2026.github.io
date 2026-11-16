@@ -18,7 +18,7 @@ If you have already registered and need to correct or update your registration i
 - Contribution submission deadline: **October 15, 2026** (closed)
 - Notification / program assignment: **October 31, 2026**
 - Registration deadline: **November 15, 2026** (closed)
-- Banquet / networking reception payment deadline: **November 15, 2026** (closed)
+- Banquet / networking reception payment deadline: **November 15, 2026**
 
 ---
 
@@ -31,7 +31,17 @@ Main Building B1F, Ikuta
 
 The poster session will be held as part of the networking event, providing an informal setting for scientific discussion and interaction among participants.
 
-Registration and advance payment for the banquet / networking reception are now closed.
+Registration for the banquet / networking reception is closed. However, participants who already registered for the banquet and have not yet completed payment may still use the Stripe link below.
+
+The workshop budget will cover the food at the reception, while participants are asked to pay **JPY 1,600** to cover drinks.
+
+<div class="registration-actions">
+
+<a class="button primary" href="https://buy.stripe.com/8x2eVe8zH0HDcAu9bFfEk01" target="_blank" rel="noopener">
+Pay Banquet Fee by Stripe
+</a>
+
+</div>
 
 If you have already registered for the banquet and have a question about your registration or payment, please contact the organizing committee.
 

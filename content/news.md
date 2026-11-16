@@ -15,7 +15,7 @@ Please see the [Program page](/program/) for the current schedule.
 
 General registration for TNSAA 2026 closed on **November 15, 2026**.
 
-The banquet / networking reception payment deadline was also **November 15, 2026**, and advance payment is now closed.
+The banquet / networking reception payment deadline was **November 15, 2026**. Participants who already registered for the banquet but have not yet completed payment may still use the payment link on the Registration page.
 
 Participants who have already registered and need to correct or update their information should contact the organizing committee.
 
