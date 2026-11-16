@@ -109,7 +109,7 @@ The program below is provisional and subject to change.
 | --- | --- | --- |
 |  | **Session 7 — Chair: TBA** | |
 | 09:00–09:30 | **Ying-Jer Kao**<br>National Taiwan University, Taiwan | Improved Ising Meson Spectroscopy Simulation on a Noisy Digital Quantum Device |
-| 09:30–10:00 | **Mario Collura**<br>SISSA, Italy | TBA |
+| 09:30–10:00 | **Mario Collura**<br>SISSA, Italy | Simulating in the right frame: Clifford and local frames for tensor networks and Pauli propagation |
 | 10:00–10:30 | Coffee Break | |
 |  | **Session 8 — Chair: TBA** | |
 | 10:30–11:00 | **Song Cheng**<br>Beijing Institute of Mathematical Sciences and Applications (BIMSA) | Complexity of Tensor-Network Simulation for Noisy Quantum Circuits |
