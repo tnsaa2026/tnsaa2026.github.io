@@ -10,7 +10,7 @@ There will be no formal proceedings for TNSAA 2026. The purpose of the contribut
 > **The regular contribution submission period has closed.**  
 > The contribution submission deadline was **October 15, 2026**. Presentation assignments are now available on the [Program page](/program/).
 
-General registration remains open until **November 15, 2026**. Please see the [Registration page](/registration/) if you plan to attend the workshop.
+General registration closed on **November 15, 2026**. Please see the [Registration page](/registration/) for the current registration status.
 
 ## Topics
 
@@ -38,4 +38,4 @@ If you need to correct information in an existing contribution, please contact t
 
 * Contribution submission deadline: **October 15, 2026** (closed)
 * Notification / program assignment: **October 31, 2026**
-* Registration deadline: **November 15, 2026**
+* Registration deadline: **November 15, 2026** (closed)
