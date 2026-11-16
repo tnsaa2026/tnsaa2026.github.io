@@ -30,6 +30,7 @@ The program below is provisional and subject to change.
 | 16:00–16:15 | **Sayan Mukherjee**<br>The University of Tokyo | When Does HOTRG Close? A Voltage-Graph-Lift Approach |
 | 16:15–16:45 | **Fathiyya Izzatun Az Zahra**<br>YITP | TBA |
 | 16:45–17:00 | **Chao Li**<br>RIKEN Center for Advanced Intelligence Project (AIP) | Tractable Probabilistic Modeling with Matrix Product Operator (MPO) Born Machines |
+| 17:00–17:15 | **Ryo Sakai**<br>JIJ Inc. | Low-entanglement tensor-network reservoir computing with memory provided by width |
 
 ---
 
@@ -65,9 +66,8 @@ The program below is provisional and subject to change.
 | A01 | **Lukas Wittmann**<br>Technical University of Munich, Pollmann group | Quasiparticle Excitations in Two-Dimensional Isometric Tensor Network States |
 | A02 | **Hao-Kai Zhang**<br>Institute of Physics, Chinese Academy of Sciences | Absence of poor local minima in matrix product states |
 | A03 | **Wei-Lin Tu**<br>Keio University | TBA |
-| A04 | **Ryo Sakai**<br>JIJ Inc. | Low-entanglement tensor-network reservoir computing with memory provided by width |
-| A05 | **Changkai Zhang**<br>The University of Hong Kong | Enhanced Exponential Tensor Renormalization Group for the Finite-Temperature Hubbard Model |
-| A06 | **Changkai Zhang**<br>The University of Hong Kong | Alice, Nicole, and Yuzuha: Open-Source Infrastructure for Symmetry-Aware Tensor Networks |
+| A04 | **Changkai Zhang**<br>The University of Hong Kong | Enhanced Exponential Tensor Renormalization Group for the Finite-Temperature Hubbard Model |
+| A05 | **Changkai Zhang**<br>The University of Hong Kong | Alice, Nicole, and Yuzuha: Open-Source Infrastructure for Symmetry-Aware Tensor Networks |
 
 ##### B. Quantum information, Clifford methods & quantum algorithms
 
