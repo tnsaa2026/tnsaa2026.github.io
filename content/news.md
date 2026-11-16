@@ -11,15 +11,15 @@ Several presentation slots became available following cancellations, allowing so
 
 Please see the [Program page](/program/) for the current schedule.
 
-## Registration remains open
+## Registration closed
 
-General registration for TNSAA 2026 remains open until **November 15, 2026**.
+General registration for TNSAA 2026 closed on **November 15, 2026**.
 
-The regular contribution submission period closed on **October 15, 2026**, and presentation assignments are now listed in the program.
+The banquet / networking reception payment deadline was also **November 15, 2026**, and advance payment is now closed.
 
-The banquet / networking reception payment deadline is also **November 15, 2026**.
+Participants who have already registered and need to correct or update their information should contact the organizing committee.
 
-Please visit the [Registration page](/registration/) for details.
+Please see the [Registration page](/registration/) for details.
 
 ## Poster session / networking reception / banquet
 
