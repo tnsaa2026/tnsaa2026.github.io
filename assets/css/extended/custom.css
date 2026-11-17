@@ -554,3 +554,64 @@ body {
   gap: 12px;
   flex-wrap: wrap;
 }
+
+/* =========================
+   Program abstracts
+========================= */
+
+.talk-abstract {
+  margin: 0;
+}
+
+.talk-abstract summary {
+  cursor: pointer;
+  color: #25638f;
+  font-weight: 650;
+  line-height: 1.5;
+  list-style: none;
+}
+
+.talk-abstract summary::-webkit-details-marker {
+  display: none;
+}
+
+.talk-abstract summary::after {
+  content: "  ▾";
+  color: #7b8794;
+  font-size: 0.82em;
+  white-space: nowrap;
+}
+
+.talk-abstract[open] summary::after {
+  content: "  ▴";
+}
+
+.talk-abstract summary:hover {
+  text-decoration: underline;
+}
+
+.abstract-body {
+  margin-top: 10px;
+  padding: 12px 14px;
+  border-left: 3px solid #cfe3f2;
+  border-radius: 8px;
+  background: #f7fafc;
+  color: #374151;
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+.abstract-body p {
+  margin: 0 0 0.75em;
+}
+
+.abstract-body p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 700px) {
+  .abstract-body {
+    padding: 10px 12px;
+    font-size: 0.88rem;
+  }
+}
