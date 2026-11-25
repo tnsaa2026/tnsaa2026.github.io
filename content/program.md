@@ -11,6 +11,7 @@ The program below is provisional and subject to change.
 
 - **Invited talks:** 30 minutes total — 24 minutes presentation + 6 minutes Q&A
 - **Contributed talks:** 15 minutes total — 12 minutes presentation + 3 minutes Q&A
+- **Poster presentations:** A0 (portrait orientation) recommended. See the poster presentation guidelines below.
 - **Session chairs:** TBA
 - **Abstracts:** Click a presentation title to view or hide its abstract when available.
 
@@ -153,7 +154,12 @@ The program below is provisional and subject to change.
 
 The poster session, networking reception, and banquet will be held together on **December 16, 18:00–20:00** at **Kobe Portopia Hotel, Main Building B1F, Ikuta**.
 
-Instructions for poster size and other poster specifications will be announced later.
+### Poster presentation guidelines
+
+- **Poster size:** A0, portrait orientation (841 mm wide × 1,189 mm high), is recommended. Smaller posters are also acceptable.
+- **Preparation:** Please bring your printed poster to the venue.
+- **Setup:** Please display your poster at the location corresponding to your assigned poster number in the program, before the session begins at 18:00. Time for transfer to the hotel and poster setup is scheduled from 16:00 to 18:00.
+- **Removal:** Please remove your poster after the session.
 
 ---
 
