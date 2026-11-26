@@ -3,9 +3,9 @@ title: "News"
 draft: false
 ---
 
-## Updated provisional program now available
+## Updated program now available
 
-The provisional program has been updated to reflect schedule requests and other feedback received from presenters.
+The program has been updated to reflect schedule requests and other feedback received from presenters.
 
 Several presentation slots became available following cancellations, allowing some contributions that had previously been assigned to the poster session to return to oral presentations.
 
