@@ -57,6 +57,20 @@ Please check the latest schedules and routes before traveling.
 
 ---
 
+# Lunch Guide Near R-CCS {#lunch-guide}
+
+Several lunch options are available within walking distance of the workshop venue. The guide below includes locations, opening hours, and payment methods.
+
+Please bring Japanese yen in cash, as Restaurant FOCUS accepts cash only and food truck payment methods vary.
+
+<a href="/images/tnsaa2026-lunch-guide.webp" aria-label="View the lunch guide at full resolution"><img src="/images/tnsaa2026-lunch-guide.webp" alt="Lunch guide near R-CCS: 1. Restaurant FOCUS; 2. Kobe Hagiwara Coffee Minatojima Cafe; 3. Kitchen Car (daily rotation). The map shows their locations and the guide lists opening hours and payment methods." width="1043" height="1508" loading="lazy" decoding="async" style="display:block; width:100%; max-width:800px; height:auto; margin:1rem auto;"></a>
+
+[View the lunch guide at full resolution](/images/tnsaa2026-lunch-guide.webp)
+
+Opening hours and availability may change. Please check the latest information before visiting.
+
+---
+
 # Poster Session / Networking Reception / Banquet
 
 The poster session, networking reception, and banquet will be held on **December 16, 18:00–20:00** at **Kobe Portopia Hotel, Main Building B1F, Ikuta**.
